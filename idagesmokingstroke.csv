@@ -1,0 +1,5111 @@
+id,age,smoking_status
+9046,67,formerly smoked
+51676,61,never smoked
+31112,80,never smoked
+60182,49,smokes
+1665,79,never smoked
+56669,81,formerly smoked
+53882,74,never smoked
+10434,69,never smoked
+27419,59,Unknown
+60491,78,Unknown
+12109,81,never smoked
+12095,61,smokes
+12175,54,smokes
+8213,78,Unknown
+5317,79,never smoked
+58202,50,never smoked
+56112,64,smokes
+34120,75,smokes
+27458,60,never smoked
+25226,57,Unknown
+70630,71,smokes
+13861,52,never smoked
+68794,79,never smoked
+64778,82,Unknown
+4219,71,formerly smoked
+70822,80,never smoked
+38047,65,formerly smoked
+61843,58,Unknown
+54827,69,smokes
+69160,59,formerly smoked
+43717,57,smokes
+33879,42,Unknown
+39373,82,never smoked
+54401,80,formerly smoked
+14248,48,never smoked
+712,82,formerly smoked
+47269,74,formerly smoked
+24977,72,formerly smoked
+47306,58,Unknown
+62602,49,never smoked
+4651,78,formerly smoked
+1261,54,never smoked
+61960,82,smokes
+1845,63,formerly smoked
+7937,60,smokes
+19824,76,never smoked
+37937,75,Unknown
+47472,58,formerly smoked
+35626,81,never smoked
+36338,39,smokes
+18587,76,Unknown
+15102,78,formerly smoked
+59190,79,never smoked
+47167,77,never smoked
+8752,63,never smoked
+25831,63,formerly smoked
+38829,82,never smoked
+66400,78,formerly smoked
+58631,73,never smoked
+5111,54,never smoked
+10710,56,formerly smoked
+55927,80,never smoked
+65842,67,smokes
+19557,45,formerly smoked
+7356,75,Unknown
+17013,78,never smoked
+17004,70,never smoked
+72366,76,Unknown
+6118,59,formerly smoked
+7371,80,never smoked
+70676,76,formerly smoked
+2326,67,formerly smoked
+27169,66,formerly smoked
+50784,63,never smoked
+19773,52,never smoked
+66159,80,formerly smoked
+36236,80,never smoked
+71673,79,formerly smoked
+45805,51,never smoked
+42117,43,Unknown
+57419,59,Unknown
+26015,66,Unknown
+26727,79,never smoked
+66638,68,never smoked
+70042,58,Unknown
+32399,54,smokes
+3253,61,smokes
+71796,70,formerly smoked
+14499,47,formerly smoked
+49130,74,Unknown
+28291,79,never smoked
+51169,81,never smoked
+66315,57,never smoked
+37726,80,Unknown
+54385,45,never smoked
+2458,78,never smoked
+35512,70,formerly smoked
+56841,58,smokes
+8154,57,formerly smoked
+4639,69,never smoked
+12363,64,Unknown
+63973,77,never smoked
+45277,74,formerly smoked
+4712,81,Unknown
+33175,57,Unknown
+2346,58,smokes
+42072,50,formerly smoked
+12062,54,smokes
+30456,79,never smoked
+59125,53,never smoked
+56546,79,formerly smoked
+48405,80,smokes
+36706,76,formerly smoked
+41069,45,never smoked
+71639,68,Unknown
+53401,71,never smoked
+60744,61,smokes
+7547,74,smokes
+31720,38,formerly smoked
+5563,77,never smoked
+68798,58,formerly smoked
+72918,53,Unknown
+13491,80,smokes
+44033,56,never smoked
+14164,72,Unknown
+50522,72,never smoked
+3352,78,formerly smoked
+70943,80,Unknown
+37132,82,formerly smoked
+48796,75,Unknown
+53440,73,never smoked
+16817,78,never smoked
+69551,69,never smoked
+31563,38,formerly smoked
+20387,68,never smoked
+71279,71,never smoked
+55824,76,formerly smoked
+11762,76,Unknown
+29281,76,formerly smoked
+30683,75,Unknown
+20439,82,never smoked
+45965,59,smokes
+8045,74,never smoked
+37651,69,never smoked
+17308,72,never smoked
+67981,66,formerly smoked
+41241,65,formerly smoked
+62861,78,never smoked
+72081,57,never smoked
+58978,70,never smoked
+11933,79,Unknown
+46703,68,formerly smoked
+32503,80,never smoked
+12482,68,smokes
+56939,55,never smoked
+24669,77,never smoked
+43054,50,smokes
+59437,57,smokes
+66258,71,formerly smoked
+34567,81,never smoked
+50931,76,formerly smoked
+16590,71,smokes
+69768,1.32,Unknown
+20426,78,never smoked
+3512,70,formerly smoked
+42899,78,formerly smoked
+63453,56,Unknown
+43364,79,never smoked
+44993,79,formerly smoked
+210,81,never smoked
+28939,64,formerly smoked
+60739,79,never smoked
+67432,60,smokes
+2182,80,formerly smoked
+40899,78,formerly smoked
+14431,72,never smoked
+62466,80,never smoked
+36841,78,formerly smoked
+33486,80,Unknown
+65105,81,Unknown
+54567,46,never smoked
+66204,59,formerly smoked
+39912,32,smokes
+8003,77,Unknown
+28378,61,smokes
+41081,63,formerly smoked
+16077,63,formerly smoked
+67895,82,formerly smoked
+30184,82,formerly smoked
+66955,61,Unknown
+24905,65,formerly smoked
+66071,51,formerly smoked
+36255,59,smokes
+69112,68,smokes
+23410,72,smokes
+64373,59,formerly smoked
+58267,70,formerly smoked
+35684,69,Unknown
+18937,79,formerly smoked
+491,74,never smoked
+54695,74,Unknown
+68627,80,formerly smoked
+8580,77,never smoked
+28484,78,never smoked
+62019,54,smokes
+51314,78,formerly smoked
+37060,81,never smoked
+35578,78,never smoked
+54921,78,Unknown
+33454,63,Unknown
+33943,39,never smoked
+62439,51,formerly smoked
+31179,63,never smoked
+66866,48,never smoked
+2548,81,never smoked
+68025,79,smokes
+2390,78,never smoked
+29552,55,smokes
+25904,76,smokes
+31421,73,never smoked
+20463,81,smokes
+68023,79,never smoked
+12689,63,formerly smoked
+54724,81,smokes
+8899,49,smokes
+39186,57,Unknown
+32729,81,never smoked
+39105,74,never smoked
+31154,39,smokes
+69959,80,never smoked
+10552,81,never smoked
+12917,79,smokes
+68356,73,never smoked
+23368,77,formerly smoked
+25974,78,Unknown
+1210,68,Unknown
+28493,57,Unknown
+36857,77,formerly smoked
+1836,51,never smoked
+32221,60,smokes
+10548,66,formerly smoked
+52282,57,formerly smoked
+45535,68,never smoked
+40460,68,formerly smoked
+17739,57,Unknown
+49669,14,Unknown
+27153,75,formerly smoked
+34060,71,Unknown
+43424,78,Unknown
+30669,3,Unknown
+30468,58,never smoked
+16523,8,Unknown
+56543,70,formerly smoked
+46136,14,Unknown
+32257,47,Unknown
+52800,52,formerly smoked
+41413,75,never smoked
+15266,32,smokes
+28674,74,never smoked
+10460,79,Unknown
+64908,79,formerly smoked
+63884,37,never smoked
+37893,37,formerly smoked
+67855,40,never smoked
+25774,35,never smoked
+19584,20,smokes
+24447,42,never smoked
+49589,44,smokes
+17986,79,smokes
+29217,65,Unknown
+72911,57,smokes
+47175,49,smokes
+4057,71,formerly smoked
+48588,59,never smoked
+70336,25,never smoked
+66767,67,smokes
+45801,38,never smoked
+36275,54,never smoked
+11577,70,never smoked
+67210,27,Unknown
+29908,47,Unknown
+45222,58,smokes
+33759,3,Unknown
+40311,58,Unknown
+26325,14,Unknown
+65460,32,formerly smoked
+36811,23,never smoked
+71750,55,Unknown
+70970,17,Unknown
+42203,59,smokes
+55680,13,Unknown
+11014,4,Unknown
+44338,16,Unknown
+20980,67,formerly smoked
+34974,22,Unknown
+71379,45,smokes
+58261,66,never smoked
+67318,58,smokes
+28526,69,never smoked
+8831,58,Unknown
+65199,53,Unknown
+43454,78,formerly smoked
+7282,44,never smoked
+18518,66,smokes
+41648,27,smokes
+49003,43,smokes
+16371,13,Unknown
+42807,51,Unknown
+40181,30,smokes
+66174,46,formerly smoked
+45538,43,Unknown
+6319,79,Unknown
+68249,27,Unknown
+55232,38,smokes
+11120,78,never smoked
+41940,57,formerly smoked
+72214,61,formerly smoked
+37089,37,never smoked
+68614,48,formerly smoked
+1686,29,never smoked
+22284,22,Unknown
+39038,11,Unknown
+21956,22,Unknown
+52134,53,Unknown
+30171,27,formerly smoked
+4480,76,formerly smoked
+2982,57,never smoked
+65535,8,Unknown
+29865,21,smokes
+54918,18,smokes
+59368,78,never smoked
+65836,78,formerly smoked
+21130,33,smokes
+1703,52,formerly smoked
+16934,51,Unknown
+28799,11,Unknown
+32689,48,Unknown
+56357,82,never smoked
+18051,54,never smoked
+40840,49,never smoked
+10449,24,never smoked
+38805,37,formerly smoked
+31091,34,formerly smoked
+45053,64,formerly smoked
+61837,66,never smoked
+9487,23,never smoked
+49713,68,never smoked
+17608,55,formerly smoked
+28102,25,never smoked
+1506,48,smokes
+28333,79,formerly smoked
+62608,47,never smoked
+40670,20,never smoked
+4630,60,never smoked
+21284,32,smokes
+49421,66,never smoked
+5973,43,smokes
+42996,36,never smoked
+66333,52,never smoked
+46785,29,smokes
+54312,76,never smoked
+21408,39,never smoked
+49916,76,formerly smoked
+7559,0.64,Unknown
+71038,34,Unknown
+69037,72,formerly smoked
+58617,43,never smoked
+69064,57,never smoked
+9404,44,never smoked
+8171,4,Unknown
+28286,44,never smoked
+43232,18,never smoked
+10159,41,never smoked
+34402,23,formerly smoked
+58282,53,smokes
+64489,56,never smoked
+22706,0.88,Unknown
+71539,25,Unknown
+28637,14,Unknown
+64553,53,formerly smoked
+31741,4,Unknown
+69936,39,never smoked
+46527,53,never smoked
+22537,5,Unknown
+50611,4,Unknown
+13547,37,never smoked
+63732,70,never smoked
+9608,24,never smoked
+10504,55,formerly smoked
+37090,70,formerly smoked
+60148,34,never smoked
+9637,26,smokes
+44862,39,never smoked
+52173,38,never smoked
+5708,20,never smoked
+23462,17,never smoked
+2374,60,never smoked
+11091,75,never smoked
+70374,31,smokes
+15528,58,formerly smoked
+65357,5,Unknown
+49465,13,never smoked
+31143,22,Unknown
+66972,52,smokes
+55810,61,Unknown
+37031,78,never smoked
+34608,57,Unknown
+36007,21,never smoked
+14123,22,never smoked
+48298,80,Unknown
+54975,7,Unknown
+27213,64,never smoked
+44749,64,smokes
+46468,38,Unknown
+10913,12,never smoked
+51983,33,smokes
+27029,3,Unknown
+22320,37,never smoked
+45719,22,never smoked
+129,24,never smoked
+20351,75,Unknown
+530,12,Unknown
+55351,63,Unknown
+67431,52,formerly smoked
+20546,68,never smoked
+6107,5,Unknown
+50305,56,never smoked
+52342,43,smokes
+59906,40,smokes
+59729,53,formerly smoked
+53144,52,never smoked
+3655,31,formerly smoked
+11999,63,smokes
+12985,69,never smoked
+38119,64,never smoked
+3355,64,never smoked
+22091,62,formerly smoked
+5010,2,Unknown
+67177,53,formerly smoked
+58600,65,never smoked
+56681,22,never smoked
+56716,26,never smoked
+65946,53,Unknown
+61350,20,Unknown
+17291,63,Unknown
+61465,13,Unknown
+18108,21,Unknown
+48368,65,never smoked
+36471,65,Unknown
+15689,42,never smoked
+8233,72,smokes
+46436,13,never smoked
+23221,29,never smoked
+31830,59,Unknown
+15296,42,never smoked
+7351,13,never smoked
+66196,75,formerly smoked
+17718,33,smokes
+31164,43,Unknown
+48272,11,Unknown
+2893,7,Unknown
+34376,16,Unknown
+18498,44,formerly smoked
+56735,78,never smoked
+8595,25,never smoked
+621,69,smokes
+1307,61,smokes
+35846,43,never smoked
+28645,38,never smoked
+5835,68,Unknown
+46474,26,never smoked
+69687,18,never smoked
+2953,43,smokes
+11838,43,never smoked
+9179,32,smokes
+38165,81,never smoked
+63050,25,Unknown
+22470,61,Unknown
+71585,66,formerly smoked
+15649,54,smokes
+11974,11,Unknown
+3009,53,Unknown
+32361,78,Unknown
+41523,9,Unknown
+53910,48,smokes
+67548,31,never smoked
+50441,20,never smoked
+16927,21,Unknown
+28265,42,formerly smoked
+33404,35,Unknown
+50965,53,Unknown
+21077,60,formerly smoked
+12982,74,Unknown
+66570,23,never smoked
+29158,55,formerly smoked
+34299,71,never smoked
+54375,5,Unknown
+37832,14,never smoked
+21058,15,Unknown
+7696,66,smokes
+34668,56,formerly smoked
+68483,60,formerly smoked
+6072,57,never smoked
+51112,29,Unknown
+69673,76,smokes
+71238,52,smokes
+63958,42,formerly smoked
+34511,71,Unknown
+24892,64,Unknown
+29496,39,never smoked
+19939,46,formerly smoked
+27832,51,smokes
+27757,31,smokes
+31279,22,smokes
+25099,41,smokes
+67733,28,smokes
+9201,44,never smoked
+33123,68,formerly smoked
+21713,49,Unknown
+22622,10,Unknown
+6726,31,never smoked
+17242,67,never smoked
+16380,40,smokes
+9729,70,never smoked
+56974,38,never smoked
+29933,5,Unknown
+65574,54,never smoked
+17019,30,never smoked
+41800,23,formerly smoked
+7621,31,Unknown
+6855,72,formerly smoked
+5374,23,never smoked
+31564,25,Unknown
+26028,51,never smoked
+71808,20,Unknown
+56998,12,Unknown
+14712,57,never smoked
+23094,65,Unknown
+43134,16,never smoked
+40622,43,Unknown
+39383,30,never smoked
+63606,29,formerly smoked
+46438,54,formerly smoked
+65144,57,Unknown
+545,42,never smoked
+36331,18,Unknown
+42359,9,Unknown
+20751,26,smokes
+34641,40,never smoked
+15791,77,never smoked
+68241,15,Unknown
+67780,76,formerly smoked
+68275,52,Unknown
+13129,55,never smoked
+60902,5,Unknown
+37629,55,never smoked
+58439,36,never smoked
+62936,46,Unknown
+29010,5,Unknown
+36561,39,never smoked
+44912,12,Unknown
+59829,67,never smoked
+45238,1.8,Unknown
+47811,72,never smoked
+61511,0.32,Unknown
+55424,64,never smoked
+36942,27,Unknown
+61697,25,formerly smoked
+55138,81,Unknown
+39399,32,never smoked
+17148,57,never smoked
+721,52,formerly smoked
+40448,54,formerly smoked
+58007,36,smokes
+15095,18,Unknown
+11960,45,never smoked
+56179,29,smokes
+24592,51,smokes
+67744,23,formerly smoked
+8328,54,never smoked
+32437,54,formerly smoked
+44315,18,Unknown
+68245,26,Unknown
+25483,72,formerly smoked
+47732,5,Unknown
+50118,65,formerly smoked
+55420,42,Unknown
+55709,47,never smoked
+15311,24,formerly smoked
+53660,57,smokes
+56553,51,Unknown
+30480,48,smokes
+31988,56,never smoked
+59807,30,never smoked
+45585,63,smokes
+39639,46,smokes
+52063,53,formerly smoked
+40639,1.08,Unknown
+31090,15,never smoked
+64174,59,never smoked
+8544,24,never smoked
+27377,53,never smoked
+3361,39,never smoked
+61408,23,never smoked
+33552,31,smokes
+31364,5,Unknown
+7446,44,never smoked
+9906,1.8,Unknown
+65130,40,smokes
+27794,7,Unknown
+48993,56,Unknown
+30753,42,never smoked
+46809,48,Unknown
+22853,82,smokes
+12465,52,never smoked
+64849,42,Unknown
+39659,73,never smoked
+24183,55,smokes
+71533,50,formerly smoked
+35565,43,smokes
+34558,33,never smoked
+42553,80,never smoked
+39601,33,never smoked
+46891,74,Unknown
+38987,65,smokes
+21886,40,never smoked
+5353,52,smokes
+44300,66,never smoked
+48144,20,never smoked
+46218,51,smokes
+39745,60,never smoked
+13517,59,never smoked
+36355,58,never smoked
+22678,42,Unknown
+2532,28,Unknown
+52512,57,never smoked
+3579,66,formerly smoked
+3130,56,never smoked
+5545,48,formerly smoked
+63693,37,Unknown
+34363,27,never smoked
+23650,15,never smoked
+53515,61,formerly smoked
+33528,80,never smoked
+23046,43,never smoked
+11068,53,Unknown
+62233,70,formerly smoked
+7291,58,formerly smoked
+36814,49,smokes
+48265,65,never smoked
+10139,54,never smoked
+12662,74,formerly smoked
+43174,56,formerly smoked
+72823,79,formerly smoked
+30567,71,formerly smoked
+41927,28,never smoked
+54866,9,Unknown
+20364,4,Unknown
+21117,36,never smoked
+50491,78,smokes
+61013,52,Unknown
+71010,80,never smoked
+23551,28,Unknown
+10997,38,never smoked
+12738,56,never smoked
+57772,75,never smoked
+16615,76,never smoked
+62999,10,Unknown
+68995,48,formerly smoked
+66184,40,Unknown
+53010,82,never smoked
+967,61,never smoked
+31145,17,never smoked
+54338,58,never smoked
+22870,12,never smoked
+13223,53,never smoked
+57523,26,formerly smoked
+67932,48,smokes
+10255,25,Unknown
+68131,27,never smoked
+29873,31,never smoked
+54182,16,never smoked
+61300,20,never smoked
+15274,2,Unknown
+53016,1.8,Unknown
+28848,28,Unknown
+27012,32,formerly smoked
+7745,35,formerly smoked
+20541,52,never smoked
+5892,55,never smoked
+66883,42,never smoked
+43196,52,Unknown
+12593,18,never smoked
+51514,13,never smoked
+15553,45,formerly smoked
+45796,29,never smoked
+31840,12,Unknown
+58767,37,Unknown
+14391,30,smokes
+22321,44,never smoked
+38184,79,never smoked
+13997,38,never smoked
+41673,45,never smoked
+27796,66,smokes
+18390,19,Unknown
+63409,49,smokes
+9752,66,smokes
+72882,47,formerly smoked
+49744,59,formerly smoked
+49086,23,formerly smoked
+40866,79,Unknown
+47523,37,formerly smoked
+63561,78,never smoked
+51422,70,formerly smoked
+56870,34,Unknown
+3590,28,never smoked
+60665,29,smokes
+40791,13,Unknown
+54304,22,never smoked
+22485,56,formerly smoked
+18430,81,formerly smoked
+19234,28,Unknown
+52454,9,Unknown
+13365,50,smokes
+60983,70,smokes
+14615,30,smokes
+50277,51,smokes
+50811,24,never smoked
+16575,17,never smoked
+1246,43,never smoked
+11176,9,Unknown
+30712,50,never smoked
+31308,49,formerly smoked
+9612,6,Unknown
+3325,30,smokes
+52808,73,never smoked
+41513,20,never smoked
+36109,42,smokes
+53336,79,Unknown
+56831,55,smokes
+52580,27,never smoked
+55592,71,never smoked
+33723,9,Unknown
+26235,23,smokes
+16685,71,never smoked
+44583,56,never smoked
+25315,31,smokes
+58227,64,never smoked
+60810,46,never smoked
+34612,55,never smoked
+8320,2,Unknown
+25595,58,formerly smoked
+30550,78,Unknown
+49529,1.16,Unknown
+13367,35,Unknown
+33585,64,Unknown
+49785,18,Unknown
+6886,19,never smoked
+38609,47,never smoked
+22159,54,formerly smoked
+37413,39,Unknown
+4169,37,never smoked
+40055,17,smokes
+18888,20,never smoked
+45283,31,smokes
+42503,56,never smoked
+23645,31,never smoked
+62382,82,Unknown
+59521,33,smokes
+55386,42,smokes
+22685,20,never smoked
+46745,22,never smoked
+72547,61,Unknown
+26973,31,never smoked
+41033,31,formerly smoked
+5046,17,Unknown
+71442,30,never smoked
+49624,69,formerly smoked
+10572,63,never smoked
+55847,19,never smoked
+42441,7,Unknown
+28910,51,formerly smoked
+10381,38,never smoked
+14387,2,Unknown
+31956,58,never smoked
+17813,69,Unknown
+24665,64,formerly smoked
+13683,31,never smoked
+7387,59,never smoked
+57011,54,never smoked
+22384,24,never smoked
+24108,19,Unknown
+50053,17,never smoked
+69427,29,never smoked
+21688,42,smokes
+60777,31,formerly smoked
+64732,29,never smoked
+42710,23,never smoked
+46683,25,smokes
+58909,14,Unknown
+51125,66,smokes
+29077,77,never smoked
+4970,79,formerly smoked
+58291,52,formerly smoked
+18616,41,Unknown
+99,31,Unknown
+55529,39,never smoked
+12204,51,never smoked
+21397,40,Unknown
+64633,48,never smoked
+23016,55,never smoked
+18412,41,Unknown
+67412,39,never smoked
+37545,41,never smoked
+10324,5,Unknown
+14491,38,smokes
+64582,40,never smoked
+25514,12,Unknown
+7663,20,formerly smoked
+66220,53,never smoked
+71793,21,Unknown
+25458,70,formerly smoked
+69645,61,formerly smoked
+53695,70,never smoked
+26692,38,never smoked
+33400,59,smokes
+67078,36,never smoked
+32352,31,never smoked
+22540,65,Unknown
+26999,61,never smoked
+65218,2,Unknown
+30102,52,never smoked
+49521,33,Unknown
+54643,5,Unknown
+29134,32,smokes
+68281,54,formerly smoked
+40350,51,formerly smoked
+33410,39,never smoked
+39375,40,never smoked
+2543,19,never smoked
+45289,9,Unknown
+12106,53,never smoked
+10792,23,formerly smoked
+19153,19,never smoked
+47876,1,Unknown
+25283,48,never smoked
+12270,71,never smoked
+49949,44,never smoked
+50826,53,Unknown
+28681,70,formerly smoked
+41615,1.4,Unknown
+14147,49,smokes
+41537,17,never smoked
+62332,40,never smoked
+25488,46,never smoked
+45759,32,smokes
+71929,2,Unknown
+14807,40,never smoked
+16110,19,smokes
+40970,43,smokes
+28933,46,smokes
+11709,71,never smoked
+37154,31,smokes
+16809,41,formerly smoked
+13907,65,never smoked
+2314,52,smokes
+70380,20,never smoked
+63058,77,never smoked
+54071,51,Unknown
+67405,37,never smoked
+28024,49,formerly smoked
+11730,62,never smoked
+2549,17,never smoked
+17245,28,never smoked
+70852,80,never smoked
+60957,45,formerly smoked
+19742,37,never smoked
+10782,3,Unknown
+61742,26,never smoked
+4808,71,formerly smoked
+13571,58,never smoked
+49928,59,formerly smoked
+52688,74,smokes
+24099,17,never smoked
+65698,62,formerly smoked
+47885,37,formerly smoked
+13948,19,never smoked
+17351,59,never smoked
+820,59,never smoked
+55721,62,formerly smoked
+72310,80,smokes
+24115,54,never smoked
+65766,27,never smoked
+42482,4,Unknown
+25627,81,formerly smoked
+7122,41,Unknown
+48755,27,smokes
+33551,51,never smoked
+62716,59,Unknown
+68438,51,never smoked
+41148,71,never smoked
+14924,48,smokes
+47950,49,Unknown
+8008,35,smokes
+56089,25,formerly smoked
+9262,31,never smoked
+71896,68,formerly smoked
+38623,39,never smoked
+26503,32,smokes
+5475,39,Unknown
+15525,63,Unknown
+48748,69,smokes
+11745,29,formerly smoked
+17733,1.72,Unknown
+71591,58,smokes
+11743,32,formerly smoked
+67864,63,formerly smoked
+34857,57,formerly smoked
+34995,77,Unknown
+3606,8,Unknown
+22952,21,smokes
+32554,16,Unknown
+45893,8,Unknown
+72020,71,smokes
+57879,74,never smoked
+53538,7,Unknown
+17006,19,Unknown
+36638,64,Unknown
+41097,23,smokes
+36618,75,formerly smoked
+37290,80,never smoked
+54620,40,never smoked
+42108,24,never smoked
+19681,74,never smoked
+6988,52,never smoked
+25287,54,never smoked
+224,23,never smoked
+56679,19,Unknown
+27146,23,never smoked
+16556,13,Unknown
+5934,51,never smoked
+58999,60,never smoked
+28261,79,never smoked
+35222,75,never smoked
+44105,69,Unknown
+65256,57,never smoked
+62709,47,never smoked
+36698,33,smokes
+7273,51,smokes
+20044,47,never smoked
+54769,15,Unknown
+57372,1,Unknown
+30605,20,smokes
+13622,6,Unknown
+12686,50,never smoked
+39250,31,smokes
+2879,15,never smoked
+59684,3,Unknown
+48830,30,smokes
+56986,17,never smoked
+47924,24,never smoked
+16402,5,Unknown
+40889,33,Unknown
+4083,30,never smoked
+59336,66,never smoked
+5684,40,formerly smoked
+48843,27,never smoked
+5694,21,never smoked
+3673,55,smokes
+44481,19,never smoked
+10538,75,formerly smoked
+9648,71,never smoked
+19101,16,never smoked
+31867,49,Unknown
+11973,10,Unknown
+23633,37,smokes
+52549,59,formerly smoked
+59178,7,Unknown
+37349,61,never smoked
+44281,34,smokes
+55599,9,Unknown
+45224,46,never smoked
+54747,0.88,Unknown
+2751,50,smokes
+6090,19,never smoked
+46385,21,never smoked
+46323,2,Unknown
+28122,37,formerly smoked
+50843,20,Unknown
+64464,50,Unknown
+66922,61,formerly smoked
+66494,48,Unknown
+42786,82,formerly smoked
+33401,64,Unknown
+24174,50,never smoked
+60211,1.4,Unknown
+53279,0.24,Unknown
+61715,55,never smoked
+37830,29,Unknown
+2454,4,Unknown
+60663,70,never smoked
+46875,35,never smoked
+69091,80,never smoked
+1821,54,never smoked
+44978,39,formerly smoked
+3437,26,smokes
+6355,6,Unknown
+10762,41,Unknown
+58567,42,Unknown
+62187,9,Unknown
+84,55,never smoked
+8521,71,formerly smoked
+72779,14,Unknown
+45824,77,Unknown
+61838,50,Unknown
+57212,49,smokes
+62668,51,formerly smoked
+33142,79,never smoked
+17437,63,Unknown
+38303,66,never smoked
+12396,20,Unknown
+36484,37,never smoked
+60047,22,never smoked
+16542,60,never smoked
+18805,39,never smoked
+17869,53,Unknown
+6793,55,formerly smoked
+49265,63,smokes
+6606,57,never smoked
+23031,82,never smoked
+69330,56,smokes
+22902,41,never smoked
+69622,8,Unknown
+4807,34,smokes
+9641,75,smokes
+10313,57,formerly smoked
+12097,72,never smoked
+58037,21,never smoked
+45323,51,never smoked
+34281,15,Unknown
+7990,24,Unknown
+57622,30,smokes
+39120,82,never smoked
+68344,62,formerly smoked
+66752,79,never smoked
+11691,19,Unknown
+5077,45,Unknown
+13319,5,Unknown
+49279,57,formerly smoked
+53815,31,never smoked
+42856,61,smokes
+51579,27,never smoked
+10752,61,formerly smoked
+42133,53,never smoked
+4842,76,formerly smoked
+58138,57,never smoked
+58203,9,Unknown
+65053,34,never smoked
+24168,51,never smoked
+5824,61,formerly smoked
+6965,19,never smoked
+8332,50,formerly smoked
+61973,80,Unknown
+42821,13,smokes
+18687,55,Unknown
+72642,67,formerly smoked
+54782,30,never smoked
+55862,67,never smoked
+24437,82,Unknown
+10367,5,Unknown
+42550,81,never smoked
+14178,48,Unknown
+65429,66,never smoked
+66530,38,never smoked
+43146,8,Unknown
+3509,47,never smoked
+57497,27,never smoked
+15220,53,formerly smoked
+4813,27,never smoked
+31166,36,smokes
+9051,50,never smoked
+28669,32,Unknown
+59894,58,never smoked
+18684,73,formerly smoked
+35866,62,never smoked
+51907,50,never smoked
+7250,51,Unknown
+16147,19,never smoked
+18306,30,formerly smoked
+69143,45,Unknown
+61769,30,never smoked
+26134,28,Unknown
+67603,70,formerly smoked
+66772,0.32,Unknown
+41861,23,smokes
+954,18,never smoked
+37888,41,Unknown
+34326,52,formerly smoked
+42329,77,Unknown
+23565,34,Unknown
+27323,67,never smoked
+57854,1.64,Unknown
+18414,23,smokes
+72836,59,Unknown
+17708,62,Unknown
+66321,47,never smoked
+53817,71,never smoked
+66678,22,never smoked
+56734,33,Unknown
+32240,27,never smoked
+28127,44,formerly smoked
+20347,18,never smoked
+40824,47,Unknown
+38678,66,smokes
+29380,42,never smoked
+809,13,Unknown
+65453,56,smokes
+9415,69,formerly smoked
+30989,65,smokes
+65258,53,Unknown
+67052,36,never smoked
+62756,69,never smoked
+69224,19,formerly smoked
+13323,3,Unknown
+59940,15,Unknown
+49042,59,never smoked
+66362,61,Unknown
+46093,28,never smoked
+10370,52,formerly smoked
+156,33,never smoked
+11105,80,formerly smoked
+22363,47,never smoked
+46072,2,Unknown
+65667,48,smokes
+47848,1.56,Unknown
+71440,26,Unknown
+35231,62,Unknown
+59734,1.72,Unknown
+1893,38,formerly smoked
+32733,28,never smoked
+34728,67,never smoked
+30352,57,Unknown
+61338,40,smokes
+59275,10,Unknown
+45497,55,never smoked
+19996,7,Unknown
+50371,56,Unknown
+32687,37,never smoked
+35295,69,formerly smoked
+15746,45,never smoked
+31517,28,never smoked
+43268,52,smokes
+54540,46,never smoked
+20973,45,never smoked
+56245,21,never smoked
+9225,4,Unknown
+45955,45,smokes
+3532,71,formerly smoked
+41291,46,never smoked
+53943,3,Unknown
+52550,79,smokes
+47414,71,formerly smoked
+38804,74,Unknown
+72861,52,never smoked
+53276,49,formerly smoked
+30944,32,never smoked
+33622,62,Unknown
+26191,78,Unknown
+69312,48,never smoked
+39661,18,never smoked
+20162,80,smokes
+48989,34,never smoked
+30411,40,smokes
+47735,59,never smoked
+51162,11,Unknown
+8598,35,never smoked
+57347,29,formerly smoked
+4683,23,never smoked
+55775,59,formerly smoked
+32645,44,smokes
+46643,62,formerly smoked
+782,32,formerly smoked
+63565,2,Unknown
+13602,73,Unknown
+28326,79,never smoked
+26389,2,Unknown
+16906,43,never smoked
+35140,43,never smoked
+16837,62,never smoked
+2750,73,Unknown
+47585,31,never smoked
+37404,42,never smoked
+39518,20,never smoked
+70678,55,smokes
+542,3,Unknown
+38649,23,never smoked
+53266,33,never smoked
+26031,14,Unknown
+1191,79,formerly smoked
+36820,64,smokes
+62783,76,Unknown
+10133,46,smokes
+19778,80,formerly smoked
+38255,21,formerly smoked
+41565,33,never smoked
+39423,32,smokes
+68908,0.72,Unknown
+22440,49,formerly smoked
+28418,41,never smoked
+22566,37,Unknown
+7055,58,Unknown
+69177,79,never smoked
+33162,23,never smoked
+44764,78,Unknown
+32157,51,formerly smoked
+61983,41,smokes
+72268,68,formerly smoked
+39467,30,Unknown
+20282,1.88,Unknown
+51159,32,formerly smoked
+7167,20,never smoked
+59147,20,never smoked
+18192,10,Unknown
+14049,8,Unknown
+35927,65,smokes
+28150,65,Unknown
+8727,46,formerly smoked
+7516,53,never smoked
+6419,79,never smoked
+20425,43,formerly smoked
+59878,56,never smoked
+69355,3,Unknown
+5858,32,never smoked
+39823,41,smokes
+37053,53,never smoked
+2082,35,formerly smoked
+48073,67,formerly smoked
+16449,33,never smoked
+5447,21,Unknown
+27145,26,smokes
+30328,69,formerly smoked
+739,73,formerly smoked
+44224,15,never smoked
+533,3,Unknown
+45554,1.24,Unknown
+32884,80,never smoked
+55744,2,Unknown
+28414,50,smokes
+25767,30,Unknown
+71319,15,Unknown
+70031,71,never smoked
+23604,4,Unknown
+46576,2,Unknown
+31293,11,Unknown
+70610,45,never smoked
+6044,22,never smoked
+62284,63,never smoked
+5821,50,Unknown
+22295,25,Unknown
+27583,49,never smoked
+9696,39,smokes
+1164,43,smokes
+48781,67,formerly smoked
+50947,48,smokes
+47844,38,never smoked
+45209,14,Unknown
+49412,63,never smoked
+43088,37,formerly smoked
+16355,20,never smoked
+43172,60,formerly smoked
+43155,13,Unknown
+11882,34,never smoked
+45669,22,Unknown
+65339,46,never smoked
+60399,53,Unknown
+59604,28,never smoked
+22488,62,never smoked
+33187,6,Unknown
+44192,11,Unknown
+16114,66,never smoked
+35293,80,formerly smoked
+728,8,Unknown
+45788,53,Unknown
+52150,63,formerly smoked
+26172,31,never smoked
+67814,43,formerly smoked
+12618,79,Unknown
+28952,8,Unknown
+39123,38,Unknown
+53967,80,never smoked
+34772,49,smokes
+43124,50,never smoked
+51916,13,Unknown
+68003,46,smokes
+59157,73,never smoked
+54383,60,never smoked
+6928,44,never smoked
+321,79,never smoked
+21857,5,Unknown
+33526,51,Unknown
+37327,71,Unknown
+55976,5,Unknown
+56090,65,never smoked
+38350,81,Unknown
+6040,46,Unknown
+17639,44,never smoked
+1678,54,never smoked
+27572,25,never smoked
+57668,49,formerly smoked
+22001,80,formerly smoked
+54184,22,never smoked
+27966,61,never smoked
+4702,3,Unknown
+38123,50,smokes
+47345,45,never smoked
+17222,55,never smoked
+45048,21,never smoked
+30084,0.8,Unknown
+7195,50,never smoked
+16260,73,never smoked
+52457,58,smokes
+50650,30,formerly smoked
+35913,55,never smoked
+52306,57,never smoked
+132,80,Unknown
+8951,77,never smoked
+64752,29,formerly smoked
+51285,46,Unknown
+14349,40,Unknown
+40571,29,never smoked
+40624,37,never smoked
+13072,35,formerly smoked
+66310,54,never smoked
+58101,56,formerly smoked
+22969,26,formerly smoked
+28904,75,never smoked
+6563,44,never smoked
+55315,63,Unknown
+47537,17,never smoked
+45945,46,never smoked
+65849,47,never smoked
+31125,50,never smoked
+5103,49,formerly smoked
+54526,76,formerly smoked
+67309,47,smokes
+2275,47,smokes
+29869,49,never smoked
+15757,71,never smoked
+38523,65,never smoked
+65388,40,smokes
+60816,82,formerly smoked
+67350,64,never smoked
+40124,72,smokes
+20370,50,never smoked
+35188,40,smokes
+28716,74,Unknown
+56166,30,never smoked
+47159,68,never smoked
+26242,6,Unknown
+36226,4,Unknown
+47357,60,Unknown
+33167,59,Unknown
+21042,72,formerly smoked
+71062,62,formerly smoked
+32723,13,never smoked
+49646,72,Unknown
+35737,1.08,Unknown
+24256,35,formerly smoked
+62340,54,never smoked
+39927,40,never smoked
+30677,3,Unknown
+50453,2,Unknown
+17398,41,Unknown
+20938,61,formerly smoked
+21850,58,Unknown
+14241,17,never smoked
+43905,64,never smoked
+40144,32,smokes
+7806,42,smokes
+63984,39,never smoked
+13504,10,Unknown
+62272,78,never smoked
+5878,68,smokes
+62767,24,never smoked
+239,59,formerly smoked
+3184,45,formerly smoked
+51959,12,Unknown
+2092,37,never smoked
+69239,43,smokes
+68235,12,formerly smoked
+3956,13,Unknown
+42703,74,Unknown
+34436,2,Unknown
+39258,59,never smoked
+40513,21,smokes
+48648,55,never smoked
+48836,14,never smoked
+71444,53,formerly smoked
+33983,75,never smoked
+35372,37,never smoked
+31849,49,smokes
+2772,55,Unknown
+11148,57,Unknown
+62387,45,never smoked
+50775,46,Unknown
+3807,12,Unknown
+51339,12,Unknown
+69259,77,smokes
+32826,6,Unknown
+12414,76,formerly smoked
+21381,52,never smoked
+29375,62,smokes
+62452,82,never smoked
+68650,69,Unknown
+47622,78,Unknown
+57124,37,smokes
+19382,50,never smoked
+44179,41,never smoked
+50098,54,smokes
+24674,43,smokes
+72361,37,Unknown
+14563,9,Unknown
+40237,11,never smoked
+36523,56,never smoked
+65970,5,Unknown
+1577,17,Unknown
+51109,6,Unknown
+5984,25,smokes
+46373,57,never smoked
+13062,18,Unknown
+47770,2,Unknown
+32459,76,never smoked
+12687,1,Unknown
+7725,54,formerly smoked
+67217,45,formerly smoked
+49976,54,formerly smoked
+71318,67,formerly smoked
+42201,53,never smoked
+11232,47,never smoked
+14709,44,never smoked
+57137,65,smokes
+36858,40,formerly smoked
+50373,3,Unknown
+51124,81,smokes
+13191,24,never smoked
+47330,9,Unknown
+42191,52,never smoked
+35332,63,never smoked
+49341,78,never smoked
+64750,22,never smoked
+70259,2,Unknown
+36960,79,never smoked
+12992,49,never smoked
+4692,74,never smoked
+62460,62,smokes
+72132,16,Unknown
+41402,62,never smoked
+40253,27,smokes
+63577,50,never smoked
+11726,49,formerly smoked
+13736,24,formerly smoked
+43913,21,never smoked
+41870,17,Unknown
+37907,22,never smoked
+15987,13,never smoked
+57166,21,Unknown
+44950,51,formerly smoked
+47627,8,Unknown
+42460,48,smokes
+8723,16,Unknown
+52559,18,Unknown
+937,7,Unknown
+41271,68,never smoked
+66893,49,formerly smoked
+21491,80,never smoked
+51806,31,smokes
+59412,25,never smoked
+742,39,never smoked
+42902,35,never smoked
+43059,71,never smoked
+61512,71,formerly smoked
+10943,40,formerly smoked
+11447,41,never smoked
+29233,2,Unknown
+17762,3,Unknown
+46284,53,formerly smoked
+1405,1.88,Unknown
+38493,60,never smoked
+57953,5,Unknown
+30746,30,Unknown
+16949,49,Unknown
+45297,68,never smoked
+40251,23,never smoked
+27013,2,Unknown
+7586,24,formerly smoked
+26452,41,never smoked
+16378,63,Unknown
+5137,64,formerly smoked
+4559,38,Unknown
+45357,1.24,Unknown
+45257,38,smokes
+34386,43,never smoked
+15219,27,never smoked
+39202,61,formerly smoked
+9076,42,Unknown
+72824,46,formerly smoked
+64132,67,Unknown
+52987,34,Unknown
+17827,51,formerly smoked
+29378,77,Unknown
+29327,30,smokes
+48609,81,smokes
+4833,12,smokes
+8085,18,smokes
+41820,35,never smoked
+72474,82,never smoked
+32094,53,never smoked
+66818,75,never smoked
+49057,32,smokes
+18070,27,never smoked
+17860,56,formerly smoked
+17078,71,smokes
+23836,78,formerly smoked
+5296,44,never smoked
+48184,62,smokes
+9511,27,Unknown
+19389,42,smokes
+25559,66,Unknown
+11770,25,smokes
+34496,82,Unknown
+8096,49,smokes
+49709,77,never smoked
+19735,59,formerly smoked
+31415,54,never smoked
+71322,38,never smoked
+72337,55,never smoked
+25454,13,Unknown
+15310,45,smokes
+10245,54,never smoked
+29224,30,smokes
+7550,51,Unknown
+57917,47,smokes
+24219,25,never smoked
+49023,61,never smoked
+51020,55,formerly smoked
+52089,23,smokes
+29095,71,never smoked
+41424,59,Unknown
+7297,4,Unknown
+68994,65,never smoked
+25935,50,Unknown
+29910,42,never smoked
+24567,51,smokes
+54858,66,smokes
+36679,22,never smoked
+59339,5,Unknown
+18754,19,never smoked
+34312,47,never smoked
+57798,12,Unknown
+37759,53,Unknown
+11605,26,never smoked
+47558,62,formerly smoked
+54264,81,never smoked
+47893,63,never smoked
+3178,25,formerly smoked
+61924,8,Unknown
+18141,76,Unknown
+58015,44,smokes
+354,65,smokes
+5777,54,Unknown
+43271,24,smokes
+46210,65,formerly smoked
+39714,12,Unknown
+21785,33,never smoked
+36620,74,formerly smoked
+49495,18,never smoked
+21720,77,formerly smoked
+6304,48,never smoked
+18887,52,formerly smoked
+30214,23,never smoked
+66419,25,never smoked
+57468,44,never smoked
+24218,78,never smoked
+69792,37,never smoked
+6372,32,never smoked
+34664,67,formerly smoked
+40931,41,smokes
+28559,2,Unknown
+15166,75,Unknown
+49815,17,never smoked
+1625,13,Unknown
+56309,25,never smoked
+30116,57,never smoked
+52034,31,never smoked
+35584,61,never smoked
+2898,46,never smoked
+16593,47,Unknown
+17175,15,Unknown
+63663,47,never smoked
+10603,68,Unknown
+40544,0.4,Unknown
+49152,40,smokes
+1231,62,Unknown
+43672,45,formerly smoked
+25107,47,never smoked
+39286,35,Unknown
+32766,51,smokes
+15988,60,Unknown
+9011,59,smokes
+38043,1.24,Unknown
+71721,18,Unknown
+14832,81,Unknown
+38094,15,never smoked
+49789,73,formerly smoked
+47350,0.08,Unknown
+33525,53,smokes
+12318,45,Unknown
+54553,70,formerly smoked
+45976,56,Unknown
+43675,7,Unknown
+12915,66,never smoked
+4542,53,Unknown
+65801,20,Unknown
+59953,15,never smoked
+60973,51,never smoked
+68739,34,formerly smoked
+35829,33,smokes
+53909,53,smokes
+5799,69,formerly smoked
+43772,28,Unknown
+3154,81,formerly smoked
+45754,20,never smoked
+57485,1.48,Unknown
+6128,2,Unknown
+22623,77,smokes
+37082,38,formerly smoked
+64541,23,never smoked
+47037,67,formerly smoked
+48614,59,smokes
+15969,41,formerly smoked
+17752,76,Unknown
+50889,21,never smoked
+56459,41,formerly smoked
+34163,54,never smoked
+4538,29,formerly smoked
+14222,25,never smoked
+31461,48,formerly smoked
+34001,6,Unknown
+48964,21,never smoked
+40393,32,never smoked
+16488,57,never smoked
+47947,64,smokes
+51149,70,Unknown
+17079,44,smokes
+44781,60,smokes
+29385,56,smokes
+53610,53,formerly smoked
+48210,59,never smoked
+48072,53,Unknown
+32776,63,never smoked
+8960,42,smokes
+63491,63,formerly smoked
+51883,52,never smoked
+20460,62,never smoked
+47181,68,never smoked
+35432,36,never smoked
+44010,3,Unknown
+50841,40,smokes
+71044,8,Unknown
+1842,58,Unknown
+34720,45,Unknown
+9489,65,Unknown
+28725,28,formerly smoked
+30290,40,never smoked
+13723,65,formerly smoked
+26328,58,never smoked
+60104,44,smokes
+48722,54,formerly smoked
+14481,79,never smoked
+67963,62,formerly smoked
+70752,37,Unknown
+52419,66,formerly smoked
+14711,63,formerly smoked
+26366,27,formerly smoked
+12436,6,Unknown
+36722,30,smokes
+37698,15,formerly smoked
+55235,50,smokes
+20468,32,never smoked
+14677,33,never smoked
+44171,62,never smoked
+70344,82,smokes
+8470,71,never smoked
+42743,20,Unknown
+13949,44,never smoked
+61096,57,formerly smoked
+19239,50,Unknown
+70447,50,smokes
+6879,44,smokes
+37451,47,formerly smoked
+5686,35,Unknown
+4789,8,Unknown
+897,3,Unknown
+69553,29,never smoked
+58438,36,never smoked
+29104,19,never smoked
+26862,41,formerly smoked
+38036,23,Unknown
+36666,14,Unknown
+16316,35,Unknown
+61365,45,smokes
+12512,52,never smoked
+31835,19,never smoked
+4099,21,Unknown
+26893,8,Unknown
+35143,35,Unknown
+1486,33,Unknown
+5043,53,never smoked
+2513,59,formerly smoked
+5451,34,formerly smoked
+3640,31,Unknown
+17835,43,Unknown
+26826,61,never smoked
+45713,57,formerly smoked
+37660,11,never smoked
+24782,36,smokes
+63416,16,Unknown
+16953,60,formerly smoked
+42082,13,Unknown
+51660,69,never smoked
+27135,69,smokes
+54058,22,smokes
+24272,63,formerly smoked
+16028,45,smokes
+49645,58,formerly smoked
+54347,61,formerly smoked
+4861,30,smokes
+54353,78,never smoked
+71016,68,formerly smoked
+33768,16,Unknown
+62681,38,never smoked
+41007,39,never smoked
+35450,51,never smoked
+62793,37,never smoked
+66592,16,never smoked
+33462,39,never smoked
+29804,24,smokes
+33906,51,smokes
+43510,50,never smoked
+21202,27,smokes
+7222,73,formerly smoked
+13561,65,formerly smoked
+29179,76,smokes
+5511,66,formerly smoked
+20825,53,never smoked
+67144,65,Unknown
+15515,48,smokes
+3753,31,Unknown
+27279,1.72,Unknown
+48759,45,formerly smoked
+69524,56,never smoked
+28443,62,formerly smoked
+38578,35,Unknown
+66502,16,never smoked
+50978,31,Unknown
+9034,5,Unknown
+16582,26,smokes
+28500,10,Unknown
+70241,22,smokes
+32452,82,never smoked
+45573,50,smokes
+64412,47,never smoked
+66647,31,Unknown
+39450,22,Unknown
+57109,12,formerly smoked
+3591,63,never smoked
+25138,78,smokes
+17277,4,Unknown
+35333,76,never smoked
+18861,32,smokes
+15120,81,never smoked
+29221,39,never smoked
+11412,59,never smoked
+38858,2,Unknown
+6802,37,Unknown
+8644,78,formerly smoked
+54579,75,formerly smoked
+41935,34,never smoked
+17926,48,Unknown
+13862,13,never smoked
+64523,54,never smoked
+66065,13,Unknown
+71869,24,formerly smoked
+11024,76,formerly smoked
+46035,1,Unknown
+24630,57,formerly smoked
+11238,46,Unknown
+54946,26,never smoked
+24229,56,never smoked
+29934,34,Unknown
+28998,25,smokes
+19805,60,never smoked
+63668,22,formerly smoked
+24876,35,never smoked
+34719,48,never smoked
+48769,38,Unknown
+22536,12,never smoked
+8760,22,smokes
+53126,0.64,Unknown
+18179,13,never smoked
+38242,78,Unknown
+68708,23,Unknown
+12366,35,Unknown
+42465,78,never smoked
+24638,50,Unknown
+58587,61,smokes
+9170,60,Unknown
+36545,43,formerly smoked
+19467,60,smokes
+16868,51,formerly smoked
+47608,21,never smoked
+38440,16,Unknown
+23543,25,Unknown
+65396,36,never smoked
+34621,8,Unknown
+23561,48,never smoked
+16091,14,never smoked
+63597,60,never smoked
+57533,61,formerly smoked
+59370,60,Unknown
+57285,56,never smoked
+17515,9,Unknown
+23988,45,smokes
+34958,14,formerly smoked
+30620,37,smokes
+31811,52,never smoked
+1818,30,smokes
+5478,60,smokes
+26830,47,smokes
+25883,82,Unknown
+43657,64,never smoked
+71917,12,never smoked
+61299,79,Unknown
+24603,77,formerly smoked
+70654,25,Unknown
+49485,26,Unknown
+61641,14,Unknown
+12600,42,never smoked
+11566,37,Unknown
+72108,8,Unknown
+35117,78,never smoked
+22967,18,never smoked
+28913,78,Unknown
+70857,55,smokes
+42229,68,never smoked
+23459,47,smokes
+2209,47,smokes
+38673,51,never smoked
+42184,43,never smoked
+59250,78,Unknown
+29525,63,formerly smoked
+42713,45,never smoked
+16066,53,smokes
+33692,12,Unknown
+29232,56,smokes
+70122,29,never smoked
+25305,10,formerly smoked
+66110,55,Unknown
+69461,49,Unknown
+7885,23,Unknown
+60050,53,smokes
+21608,56,smokes
+32150,56,smokes
+48069,61,never smoked
+24066,45,Unknown
+39242,80,formerly smoked
+57618,47,never smoked
+14599,3,Unknown
+27479,63,formerly smoked
+10238,68,never smoked
+49014,76,never smoked
+67063,62,Unknown
+38488,30,smokes
+33298,44,formerly smoked
+48739,47,smokes
+52428,25,smokes
+61171,31,never smoked
+40878,71,formerly smoked
+61247,32,never smoked
+27799,72,formerly smoked
+2824,44,never smoked
+12376,63,formerly smoked
+72435,37,never smoked
+46864,54,never smoked
+2019,20,Unknown
+26154,56,never smoked
+47972,25,smokes
+47751,19,Unknown
+25405,62,never smoked
+34525,27,never smoked
+13755,5,Unknown
+56019,20,never smoked
+67942,21,never smoked
+43806,44,smokes
+39849,39,Unknown
+7344,38,never smoked
+1741,77,formerly smoked
+52220,26,formerly smoked
+20129,51,never smoked
+61178,39,Unknown
+48226,5,Unknown
+1151,59,formerly smoked
+6672,67,never smoked
+10333,45,never smoked
+11134,43,never smoked
+25199,80,never smoked
+66490,42,smokes
+10390,8,Unknown
+33144,68,smokes
+72497,5,Unknown
+16783,57,formerly smoked
+727,44,smokes
+51935,16,never smoked
+44177,60,Unknown
+2421,58,never smoked
+48693,43,formerly smoked
+5723,50,never smoked
+29470,1.48,Unknown
+71590,5,Unknown
+16600,9,Unknown
+28309,67,never smoked
+41911,21,Unknown
+3390,36,never smoked
+31806,70,Unknown
+68750,57,never smoked
+32840,52,smokes
+49797,28,never smoked
+72096,41,never smoked
+13503,81,never smoked
+41536,33,Unknown
+17441,31,never smoked
+62238,42,never smoked
+737,10,Unknown
+4627,34,formerly smoked
+47208,70,never smoked
+6844,33,never smoked
+60001,58,smokes
+44503,25,never smoked
+44938,1.4,Unknown
+40371,47,never smoked
+39011,14,never smoked
+1460,82,Unknown
+48364,52,formerly smoked
+30285,72,never smoked
+21472,52,formerly smoked
+71182,61,never smoked
+33412,15,never smoked
+16061,1.56,Unknown
+60266,6,Unknown
+70965,3,Unknown
+56736,18,Unknown
+6537,53,never smoked
+41827,58,formerly smoked
+49480,31,never smoked
+36704,29,smokes
+8884,5,Unknown
+49775,40,Unknown
+25777,75,formerly smoked
+2070,52,smokes
+15752,39,formerly smoked
+45915,40,formerly smoked
+48775,78,Unknown
+65697,39,never smoked
+65229,17,Unknown
+56889,45,Unknown
+6596,0.56,Unknown
+46577,13,never smoked
+63455,26,never smoked
+21724,42,formerly smoked
+29863,44,never smoked
+69249,3,Unknown
+8968,42,smokes
+20310,25,never smoked
+11450,41,never smoked
+31999,51,Unknown
+34133,20,Unknown
+44202,25,never smoked
+72311,18,Unknown
+18704,37,Unknown
+36518,51,Unknown
+35651,2,Unknown
+13749,38,formerly smoked
+21521,64,smokes
+27163,60,Unknown
+8882,22,never smoked
+32016,71,never smoked
+14287,32,Unknown
+60139,32,smokes
+2447,63,formerly smoked
+42500,0.24,Unknown
+44391,54,never smoked
+12741,25,formerly smoked
+15418,80,never smoked
+69482,31,Unknown
+32270,53,never smoked
+50983,35,never smoked
+6493,31,smokes
+45399,60,Unknown
+67099,0.56,Unknown
+19585,21,never smoked
+26247,78,Unknown
+25818,59,formerly smoked
+34261,0.64,Unknown
+64128,10,smokes
+62817,60,smokes
+69339,11,Unknown
+25919,48,never smoked
+71978,50,formerly smoked
+1473,69,smokes
+66546,20,never smoked
+56584,22,smokes
+38316,55,Unknown
+15647,57,Unknown
+59933,29,Unknown
+3429,32,Unknown
+60963,54,formerly smoked
+67689,37,Unknown
+31689,58,Unknown
+23240,41,never smoked
+30850,72,Unknown
+38920,0.48,Unknown
+66080,32,Unknown
+57263,54,never smoked
+60126,79,smokes
+64393,56,never smoked
+69285,45,smokes
+24428,6,Unknown
+59642,45,never smoked
+12064,60,Unknown
+59737,65,smokes
+19352,57,Unknown
+61903,58,smokes
+47701,8,Unknown
+15225,18,Unknown
+66431,49,Unknown
+57236,2,Unknown
+48453,52,Unknown
+8031,63,smokes
+39139,57,never smoked
+4838,50,never smoked
+22689,12,Unknown
+37752,35,never smoked
+32320,35,smokes
+14889,64,never smoked
+13964,42,never smoked
+31746,62,never smoked
+17492,3,Unknown
+1499,43,never smoked
+34396,52,never smoked
+36750,64,formerly smoked
+68816,59,never smoked
+16129,81,Unknown
+64006,15,never smoked
+51845,50,formerly smoked
+30692,73,never smoked
+65712,19,never smoked
+42161,30,Unknown
+16938,40,formerly smoked
+16113,47,never smoked
+29388,66,smokes
+65109,47,smokes
+61242,41,never smoked
+65252,63,formerly smoked
+49615,12,never smoked
+63511,1.32,Unknown
+14089,46,smokes
+16987,8,Unknown
+53399,74,never smoked
+36946,74,formerly smoked
+55522,4,Unknown
+27954,26,never smoked
+5355,63,formerly smoked
+69069,48,smokes
+11539,24,smokes
+16847,47,never smoked
+15873,70,formerly smoked
+15415,41,never smoked
+22891,42,smokes
+7394,57,never smoked
+29915,51,never smoked
+62607,15,never smoked
+24404,11,Unknown
+69666,27,never smoked
+54997,53,never smoked
+6199,52,Unknown
+4635,68,never smoked
+3305,65,smokes
+24342,23,Unknown
+65093,43,formerly smoked
+46261,55,Unknown
+42624,52,never smoked
+24735,21,Unknown
+50671,78,formerly smoked
+1679,35,formerly smoked
+66680,49,never smoked
+34248,50,formerly smoked
+65336,27,formerly smoked
+68333,52,formerly smoked
+60210,22,smokes
+11573,19,smokes
+67890,77,formerly smoked
+49254,57,formerly smoked
+9199,13,formerly smoked
+35402,14,formerly smoked
+25996,29,Unknown
+8345,49,never smoked
+63219,1.24,Unknown
+8770,21,never smoked
+22370,36,smokes
+25930,42,formerly smoked
+33478,56,smokes
+23009,46,never smoked
+24885,79,smokes
+58591,25,Unknown
+44777,67,Unknown
+46363,37,never smoked
+36377,44,never smoked
+15440,36,smokes
+56420,17,Unknown
+39531,50,formerly smoked
+55220,53,never smoked
+30731,39,never smoked
+14479,71,formerly smoked
+40471,18,Unknown
+7384,55,Unknown
+53422,52,smokes
+59745,27,Unknown
+24721,24,Unknown
+9644,72,formerly smoked
+50837,41,formerly smoked
+67941,29,formerly smoked
+43590,26,never smoked
+29014,23,never smoked
+66051,43,Unknown
+70783,43,smokes
+10716,49,never smoked
+7868,13,never smoked
+58350,26,never smoked
+18927,10,Unknown
+19550,39,never smoked
+31372,41,Unknown
+55262,25,smokes
+50238,10,Unknown
+2868,54,Unknown
+51343,7,Unknown
+56324,53,formerly smoked
+42047,55,never smoked
+36486,6,Unknown
+62456,72,formerly smoked
+64980,42,never smoked
+65962,50,smokes
+47521,55,never smoked
+41501,47,Unknown
+47582,3,Unknown
+63938,49,smokes
+49627,12,never smoked
+61291,28,Unknown
+53032,40,formerly smoked
+45040,55,formerly smoked
+56791,9,Unknown
+37320,77,Unknown
+72514,18,never smoked
+3842,73,formerly smoked
+38143,67,smokes
+54296,58,formerly smoked
+48435,2,Unknown
+42212,38,formerly smoked
+47607,5,Unknown
+16535,34,formerly smoked
+66677,78,never smoked
+57270,57,never smoked
+22414,17,smokes
+63401,71,smokes
+32252,19,Unknown
+17950,56,smokes
+53990,64,formerly smoked
+20565,13,Unknown
+59993,40,never smoked
+42830,80,never smoked
+34721,62,never smoked
+5157,79,smokes
+48851,9,Unknown
+26084,77,never smoked
+23413,26,never smoked
+49970,1.72,Unknown
+72414,16,never smoked
+21374,40,formerly smoked
+69623,46,never smoked
+40378,45,smokes
+4671,59,never smoked
+17295,31,smokes
+55466,69,never smoked
+65419,73,never smoked
+34448,56,never smoked
+14406,80,never smoked
+924,60,smokes
+71339,40,smokes
+31443,30,Unknown
+49672,66,formerly smoked
+394,78,never smoked
+63362,37,formerly smoked
+59928,41,formerly smoked
+62289,34,Unknown
+59464,18,never smoked
+18680,69,formerly smoked
+19439,67,Unknown
+27017,28,never smoked
+8277,3,Unknown
+14099,57,Unknown
+37128,34,never smoked
+57774,50,never smoked
+64033,55,never smoked
+72701,2,Unknown
+59130,27,Unknown
+48472,57,formerly smoked
+67956,73,formerly smoked
+35602,52,formerly smoked
+13818,65,never smoked
+34661,48,never smoked
+64895,54,smokes
+21969,8,Unknown
+38320,45,Unknown
+42040,48,never smoked
+31857,77,smokes
+64494,34,never smoked
+34764,33,never smoked
+20673,39,never smoked
+64817,39,never smoked
+72450,40,Unknown
+13988,46,never smoked
+54985,1,Unknown
+6049,5,Unknown
+13380,14,Unknown
+64371,49,smokes
+50295,45,never smoked
+14404,13,never smoked
+58645,76,never smoked
+19419,14,Unknown
+24518,20,never smoked
+53494,9,Unknown
+42599,78,never smoked
+68370,49,never smoked
+57813,55,never smoked
+1329,43,never smoked
+15255,16,never smoked
+65680,58,formerly smoked
+32974,67,smokes
+5863,71,never smoked
+10584,8,Unknown
+38675,18,Unknown
+47600,47,Unknown
+48246,59,formerly smoked
+61743,28,never smoked
+3879,20,smokes
+58086,67,formerly smoked
+53957,71,formerly smoked
+40137,56,Unknown
+70500,44,never smoked
+35085,6,Unknown
+43872,78,Unknown
+62951,32,never smoked
+43244,40,never smoked
+31198,63,smokes
+23223,51,never smoked
+38474,22,never smoked
+4591,82,never smoked
+1451,17,Unknown
+37150,34,formerly smoked
+65632,42,formerly smoked
+62834,32,Unknown
+21826,73,formerly smoked
+21036,47,never smoked
+55566,34,never smoked
+46923,64,never smoked
+63990,52,never smoked
+2265,49,smokes
+2860,55,Unknown
+15964,64,never smoked
+46483,23,smokes
+33284,18,never smoked
+61895,65,never smoked
+48875,12,Unknown
+36589,61,never smoked
+28651,66,smokes
+45033,59,smokes
+32166,47,never smoked
+34188,47,formerly smoked
+58359,71,smokes
+59347,62,never smoked
+12849,28,Unknown
+6104,7,Unknown
+29694,68,smokes
+30806,37,formerly smoked
+20316,75,smokes
+58253,5,Unknown
+57679,1.08,Unknown
+39956,34,Unknown
+7683,49,smokes
+9197,8,Unknown
+58543,50,formerly smoked
+6968,2,Unknown
+35838,1.16,Unknown
+57549,76,never smoked
+59200,18,never smoked
+24289,82,smokes
+6206,67,Unknown
+28227,27,smokes
+35229,57,smokes
+23176,51,formerly smoked
+3045,68,never smoked
+22386,56,smokes
+1077,77,Unknown
+57903,52,smokes
+22108,18,smokes
+55982,63,smokes
+55465,31,Unknown
+29258,37,never smoked
+38432,64,formerly smoked
+49666,47,never smoked
+59904,1.8,Unknown
+32365,42,Unknown
+15351,37,formerly smoked
+61000,69,smokes
+77,13,Unknown
+17466,73,smokes
+57569,48,formerly smoked
+9026,78,never smoked
+54590,21,never smoked
+54301,54,smokes
+170,43,never smoked
+52554,19,Unknown
+10649,82,never smoked
+28258,80,Unknown
+22269,69,never smoked
+12557,21,never smoked
+2846,46,formerly smoked
+61219,14,never smoked
+65321,6,Unknown
+23946,3,Unknown
+56312,47,never smoked
+20256,34,never smoked
+26993,41,formerly smoked
+58599,67,formerly smoked
+27849,5,Unknown
+33367,20,never smoked
+61764,63,smokes
+13620,73,smokes
+39308,62,Unknown
+1275,0.88,Unknown
+34336,50,smokes
+1505,71,formerly smoked
+31887,30,Unknown
+60258,80,smokes
+63450,64,smokes
+35178,7,Unknown
+3099,36,Unknown
+43903,79,Unknown
+9013,35,formerly smoked
+60158,28,Unknown
+15579,72,formerly smoked
+8563,12,Unknown
+61573,25,smokes
+43827,27,smokes
+43090,62,never smoked
+46068,58,Unknown
+12469,30,never smoked
+58820,56,formerly smoked
+31893,28,Unknown
+45259,47,Unknown
+63779,16,Unknown
+71250,29,never smoked
+55051,26,never smoked
+2520,26,never smoked
+3715,55,Unknown
+21206,29,smokes
+60159,29,never smoked
+3113,33,formerly smoked
+62126,19,never smoked
+51275,10,Unknown
+3115,3,Unknown
+9986,60,Unknown
+35974,16,Unknown
+46488,35,never smoked
+54172,41,Unknown
+21804,19,Unknown
+50402,79,formerly smoked
+36317,41,smokes
+44676,1.64,Unknown
+3724,51,never smoked
+69668,33,never smoked
+59274,33,smokes
+29676,48,Unknown
+37655,45,Unknown
+16980,61,never smoked
+40213,31,smokes
+47831,60,never smoked
+40977,51,Unknown
+39129,53,never smoked
+40837,52,never smoked
+59000,42,Unknown
+44510,56,never smoked
+3793,14,never smoked
+32215,40,never smoked
+35296,58,smokes
+69502,52,smokes
+67620,30,smokes
+27664,47,smokes
+49555,34,never smoked
+16812,82,Unknown
+63665,31,smokes
+68141,58,formerly smoked
+33674,47,smokes
+30432,65,never smoked
+10886,13,Unknown
+62629,37,never smoked
+67758,9,Unknown
+41244,7,Unknown
+50309,37,never smoked
+6480,62,never smoked
+27007,14,Unknown
+63912,77,formerly smoked
+37483,36,smokes
+29855,3,Unknown
+22136,78,smokes
+66637,49,never smoked
+2244,44,never smoked
+22259,10,Unknown
+19088,8,Unknown
+61010,60,smokes
+49574,56,smokes
+12336,73,never smoked
+3668,65,smokes
+6034,34,Unknown
+61418,13,Unknown
+68725,80,never smoked
+464,46,never smoked
+42225,80,never smoked
+51254,65,never smoked
+59164,24,Unknown
+70429,33,never smoked
+54253,11,formerly smoked
+47937,57,never smoked
+66882,19,never smoked
+7411,82,formerly smoked
+39593,39,smokes
+6239,14,never smoked
+35378,60,smokes
+54012,3,Unknown
+69835,57,never smoked
+44591,79,never smoked
+4709,65,Unknown
+20393,67,never smoked
+27626,60,never smoked
+45864,36,never smoked
+68685,36,formerly smoked
+28711,26,smokes
+44962,71,Unknown
+7892,78,formerly smoked
+11744,77,Unknown
+12279,74,Unknown
+20740,50,never smoked
+58257,9,Unknown
+36547,1.64,Unknown
+559,54,formerly smoked
+13728,8,Unknown
+4400,36,never smoked
+68524,38,never smoked
+24096,34,Unknown
+65643,7,Unknown
+30186,5,Unknown
+11904,14,Unknown
+20257,0.88,Unknown
+2822,30,never smoked
+18072,39,Unknown
+34896,17,never smoked
+53328,14,formerly smoked
+28303,52,never smoked
+44325,78,smokes
+8579,2,Unknown
+29229,32,smokes
+48406,0.88,Unknown
+3761,50,never smoked
+65324,48,Unknown
+7658,66,formerly smoked
+35997,78,smokes
+34383,46,Unknown
+8646,54,never smoked
+46653,81,never smoked
+1099,15,Unknown
+61676,77,Unknown
+38131,59,never smoked
+61848,48,never smoked
+56228,76,never smoked
+4949,49,never smoked
+46688,44,smokes
+30491,39,never smoked
+43478,34,formerly smoked
+25443,50,smokes
+52519,62,Unknown
+24361,38,never smoked
+29514,43,formerly smoked
+35893,28,formerly smoked
+58568,58,smokes
+63303,28,smokes
+70625,18,Unknown
+54807,62,never smoked
+18820,31,never smoked
+64029,55,smokes
+72703,54,formerly smoked
+11394,73,formerly smoked
+12298,26,formerly smoked
+70845,73,smokes
+44494,38,smokes
+30953,75,Unknown
+47861,81,Unknown
+13465,20,smokes
+62454,12,formerly smoked
+52593,78,formerly smoked
+91,42,never smoked
+22056,71,smokes
+45469,16,Unknown
+41284,4,Unknown
+20112,79,Unknown
+45627,60,formerly smoked
+4174,45,never smoked
+31660,23,Unknown
+36196,21,smokes
+19769,67,formerly smoked
+8341,10,never smoked
+42172,24,never smoked
+14372,50,never smoked
+61252,79,never smoked
+15251,14,never smoked
+67800,13,Unknown
+10416,71,smokes
+19504,66,Unknown
+7476,32,never smoked
+55526,46,never smoked
+452,48,smokes
+55790,45,formerly smoked
+38541,55,formerly smoked
+23748,31,never smoked
+18790,25,formerly smoked
+45751,73,never smoked
+72369,14,Unknown
+7171,56,Unknown
+52826,60,Unknown
+42556,27,never smoked
+507,28,smokes
+56746,46,never smoked
+54072,11,never smoked
+49760,63,never smoked
+61821,59,Unknown
+65481,57,never smoked
+6174,35,never smoked
+68224,54,formerly smoked
+61559,7,Unknown
+65564,48,formerly smoked
+18890,69,never smoked
+58936,59,Unknown
+67667,72,never smoked
+68138,49,never smoked
+50363,73,formerly smoked
+4740,24,never smoked
+39683,26,Unknown
+49903,27,never smoked
+63457,78,never smoked
+18595,77,never smoked
+64912,59,smokes
+68382,0.32,Unknown
+69510,39,never smoked
+29872,35,never smoked
+1924,54,never smoked
+67243,75,never smoked
+3494,80,Unknown
+37307,35,never smoked
+41175,22,Unknown
+48303,39,never smoked
+31473,6,Unknown
+31402,62,never smoked
+18996,13,Unknown
+2573,56,Unknown
+60683,53,never smoked
+70537,5,Unknown
+63193,44,Unknown
+12228,13,never smoked
+58107,59,Unknown
+28647,35,never smoked
+57086,52,never smoked
+5505,76,never smoked
+44112,51,formerly smoked
+56645,79,formerly smoked
+16652,69,formerly smoked
+32445,78,formerly smoked
+18752,60,formerly smoked
+35152,10,Unknown
+70081,42,Unknown
+72340,21,formerly smoked
+67112,56,never smoked
+42323,59,never smoked
+35022,69,smokes
+21625,25,Unknown
+49972,63,never smoked
+44142,25,never smoked
+364,58,formerly smoked
+59669,28,Unknown
+69900,46,smokes
+12753,53,never smoked
+10273,37,Unknown
+30824,12,Unknown
+587,14,Unknown
+55856,60,smokes
+47196,42,formerly smoked
+67724,65,Unknown
+23488,80,formerly smoked
+2849,32,Unknown
+12134,53,smokes
+24058,50,never smoked
+15117,23,smokes
+72915,45,formerly smoked
+61836,0.8,Unknown
+13116,49,never smoked
+48146,70,formerly smoked
+72819,82,never smoked
+20070,23,Unknown
+8778,79,formerly smoked
+13764,74,never smoked
+2005,78,formerly smoked
+8616,50,smokes
+51524,34,Unknown
+50541,47,smokes
+21971,52,never smoked
+32183,67,never smoked
+30145,62,Unknown
+30482,18,smokes
+30790,75,never smoked
+63337,42,smokes
+66264,29,smokes
+641,52,smokes
+42412,18,Unknown
+65693,67,Unknown
+3746,66,never smoked
+71304,5,Unknown
+34935,18,never smoked
+29173,52,smokes
+26474,44,Unknown
+56857,46,formerly smoked
+13529,36,never smoked
+61979,61,smokes
+70886,7,Unknown
+27693,15,Unknown
+59762,61,Unknown
+57308,20,never smoked
+3701,2,Unknown
+61339,47,never smoked
+24965,25,smokes
+33952,66,formerly smoked
+39042,2,Unknown
+43039,63,formerly smoked
+59915,53,never smoked
+4727,33,formerly smoked
+16481,23,Unknown
+15018,23,formerly smoked
+49702,81,formerly smoked
+48017,55,never smoked
+15313,69,formerly smoked
+22231,58,never smoked
+45461,70,Unknown
+30678,48,formerly smoked
+57904,15,never smoked
+67483,31,never smoked
+5646,2,Unknown
+67911,80,formerly smoked
+16856,69,Unknown
+37972,52,Unknown
+62414,80,Unknown
+50485,54,smokes
+47405,2,Unknown
+70928,39,Unknown
+4679,38,smokes
+15070,76,never smoked
+25625,45,smokes
+35123,1.24,Unknown
+20165,77,never smoked
+41730,46,Unknown
+38761,50,never smoked
+4797,52,Unknown
+19199,73,never smoked
+30402,41,Unknown
+25088,40,formerly smoked
+54756,59,formerly smoked
+19590,48,never smoked
+23332,42,never smoked
+16971,26,never smoked
+11727,39,smokes
+60255,34,smokes
+38796,54,formerly smoked
+46498,57,never smoked
+41042,1.56,Unknown
+35069,50,smokes
+61103,64,never smoked
+25095,44,formerly smoked
+55607,38,formerly smoked
+63029,32,never smoked
+2919,17,Unknown
+60003,81,never smoked
+46256,15,Unknown
+23659,5,Unknown
+2952,70,never smoked
+49229,52,formerly smoked
+2457,67,formerly smoked
+23508,17,never smoked
+28364,61,formerly smoked
+31360,31,smokes
+19335,58,smokes
+40390,12,never smoked
+63936,30,formerly smoked
+24832,65,formerly smoked
+25219,23,smokes
+42393,14,never smoked
+17951,27,smokes
+17443,53,never smoked
+52242,58,never smoked
+45931,9,Unknown
+7828,59,smokes
+21547,46,formerly smoked
+42305,41,never smoked
+9442,55,never smoked
+57047,43,smokes
+2538,5,Unknown
+28461,15,Unknown
+16433,36,never smoked
+50681,36,formerly smoked
+71327,47,never smoked
+46699,18,Unknown
+25248,19,Unknown
+35315,65,never smoked
+63144,17,never smoked
+21517,54,smokes
+29789,46,never smoked
+52207,59,formerly smoked
+19209,48,formerly smoked
+42041,38,smokes
+58153,18,never smoked
+27717,56,Unknown
+35106,3,Unknown
+47730,41,never smoked
+20657,67,Unknown
+63411,60,Unknown
+18671,47,never smoked
+3843,24,never smoked
+1225,43,formerly smoked
+40264,17,Unknown
+72451,45,Unknown
+20292,24,never smoked
+31201,79,never smoked
+59359,79,never smoked
+57985,27,formerly smoked
+2885,72,Unknown
+59743,64,formerly smoked
+11544,34,never smoked
+11969,50,formerly smoked
+42929,58,formerly smoked
+72776,26,formerly smoked
+21438,50,Unknown
+51084,80,formerly smoked
+13440,2,Unknown
+15533,46,formerly smoked
+50903,29,never smoked
+35276,6,Unknown
+44472,32,smokes
+23587,16,never smoked
+66794,44,never smoked
+35854,23,never smoked
+60907,48,Unknown
+12449,34,Unknown
+54371,78,formerly smoked
+8106,42,smokes
+2013,14,never smoked
+61785,40,smokes
+2707,10,Unknown
+49120,39,Unknown
+30752,42,never smoked
+64972,47,smokes
+49537,14,never smoked
+315,45,never smoked
+62814,58,formerly smoked
+7665,73,Unknown
+28108,62,Unknown
+50536,62,never smoked
+8655,51,never smoked
+760,0.8,Unknown
+47501,57,never smoked
+16863,8,Unknown
+51342,69,Unknown
+35759,16,Unknown
+17270,56,smokes
+53862,41,never smoked
+40951,1.24,Unknown
+56976,42,Unknown
+37299,57,never smoked
+33247,20,smokes
+32560,8,Unknown
+10973,43,never smoked
+3816,62,formerly smoked
+50215,42,never smoked
+10351,50,formerly smoked
+69665,63,never smoked
+14976,80,smokes
+28183,13,Unknown
+33085,20,never smoked
+13386,71,Unknown
+15601,50,smokes
+22254,76,Unknown
+15539,41,never smoked
+58235,76,smokes
+21162,78,Unknown
+67880,5,Unknown
+42545,29,formerly smoked
+48359,43,smokes
+54815,49,formerly smoked
+6233,70,smokes
+52225,24,smokes
+50463,41,smokes
+49084,20,Unknown
+61889,34,never smoked
+25525,32,Unknown
+9730,27,never smoked
+30622,44,never smoked
+26480,20,never smoked
+65895,52,Unknown
+4913,57,never smoked
+20676,29,smokes
+52410,16,Unknown
+57944,35,smokes
+20290,5,Unknown
+10875,63,never smoked
+2393,59,formerly smoked
+66464,63,formerly smoked
+40548,52,never smoked
+19699,50,never smoked
+205,43,Unknown
+54805,27,Unknown
+53195,30,never smoked
+9107,8,Unknown
+65196,75,smokes
+58833,14,Unknown
+4309,23,Unknown
+55462,6,Unknown
+51746,37,never smoked
+59335,38,smokes
+65644,3,Unknown
+52790,26,never smoked
+42681,58,formerly smoked
+33697,57,never smoked
+51963,58,never smoked
+13375,76,never smoked
+37526,68,Unknown
+59454,79,formerly smoked
+23600,34,smokes
+61245,75,never smoked
+53489,11,never smoked
+42284,71,Unknown
+69089,40,smokes
+68970,24,Unknown
+42938,0.64,Unknown
+11327,82,formerly smoked
+5464,32,Unknown
+56995,81,never smoked
+53646,33,smokes
+45139,79,never smoked
+38354,62,Unknown
+15566,39,smokes
+4793,60,formerly smoked
+59223,48,formerly smoked
+30927,24,formerly smoked
+966,70,never smoked
+62923,17,Unknown
+30627,56,Unknown
+17236,3,Unknown
+27566,65,Unknown
+6368,72,formerly smoked
+33876,10,Unknown
+52164,29,never smoked
+32446,44,never smoked
+56855,46,never smoked
+43837,33,smokes
+5477,63,never smoked
+64974,0.24,Unknown
+33976,55,never smoked
+31019,56,never smoked
+4699,50,formerly smoked
+60276,78,never smoked
+24420,63,Unknown
+28478,31,never smoked
+63236,65,smokes
+6324,51,formerly smoked
+62059,60,never smoked
+28400,69,never smoked
+5841,23,never smoked
+5681,46,smokes
+16587,16,never smoked
+3477,26,never smoked
+23890,44,never smoked
+3803,56,smokes
+34068,23,formerly smoked
+60145,38,never smoked
+11702,18,Unknown
+50508,63,smokes
+65473,23,smokes
+51257,32,never smoked
+47810,8,Unknown
+38737,77,smokes
+39060,41,never smoked
+56804,34,never smoked
+45099,25,Unknown
+22221,35,never smoked
+57134,15,never smoked
+57609,1.64,Unknown
+6132,4,Unknown
+31600,33,formerly smoked
+51497,28,never smoked
+48455,37,Unknown
+13049,50,never smoked
+9079,76,formerly smoked
+68568,72,never smoked
+72867,16,Unknown
+53121,44,never smoked
+33779,46,formerly smoked
+52367,46,formerly smoked
+29314,73,formerly smoked
+18366,29,Unknown
+32522,19,Unknown
+3980,27,never smoked
+5350,36,never smoked
+3428,61,never smoked
+62552,9,Unknown
+51085,25,never smoked
+60586,68,formerly smoked
+59988,26,smokes
+34122,17,smokes
+11392,75,smokes
+53632,34,Unknown
+32202,53,smokes
+52489,18,Unknown
+13374,48,never smoked
+66370,5,Unknown
+259,79,never smoked
+12092,16,never smoked
+38263,32,Unknown
+1666,70,formerly smoked
+48922,55,smokes
+58061,70,formerly smoked
+50283,51,smokes
+26605,39,smokes
+10396,79,Unknown
+14695,80,never smoked
+2579,34,Unknown
+71061,59,never smoked
+41250,54,smokes
+53923,22,Unknown
+54139,21,formerly smoked
+32430,4,Unknown
+14928,26,smokes
+32457,62,formerly smoked
+59718,33,never smoked
+4948,51,smokes
+40870,75,Unknown
+2218,42,smokes
+57494,82,formerly smoked
+1534,61,smokes
+69329,62,Unknown
+39852,59,never smoked
+65358,31,formerly smoked
+36488,12,never smoked
+55567,76,never smoked
+33562,71,formerly smoked
+20006,15,Unknown
+47696,44,never smoked
+60117,30,never smoked
+5032,47,formerly smoked
+5780,47,never smoked
+52236,60,never smoked
+59752,62,formerly smoked
+47005,47,never smoked
+4750,78,formerly smoked
+65127,35,smokes
+4498,71,formerly smoked
+32203,57,formerly smoked
+27436,12,Unknown
+34999,26,formerly smoked
+4213,33,formerly smoked
+71669,60,never smoked
+36803,35,never smoked
+17725,10,Unknown
+57983,50,formerly smoked
+68089,44,Unknown
+3135,73,never smoked
+563,41,never smoked
+19364,7,Unknown
+34590,45,smokes
+55459,60,formerly smoked
+38724,49,smokes
+52968,45,Unknown
+35716,55,formerly smoked
+51421,54,Unknown
+72525,39,smokes
+33009,76,formerly smoked
+35437,28,Unknown
+37253,70,formerly smoked
+46171,28,Unknown
+18143,79,formerly smoked
+35330,30,smokes
+32127,26,never smoked
+69834,57,smokes
+56311,16,Unknown
+13439,40,Unknown
+36366,77,never smoked
+13111,67,smokes
+28932,36,formerly smoked
+67521,40,Unknown
+65688,2,Unknown
+58761,52,formerly smoked
+21192,78,Unknown
+72348,22,Unknown
+1825,33,smokes
+25674,40,Unknown
+33035,20,never smoked
+54297,19,Unknown
+9122,25,never smoked
+1218,23,formerly smoked
+57210,28,never smoked
+37096,6,Unknown
+38243,37,Unknown
+17198,10,formerly smoked
+70884,34,smokes
+51809,60,formerly smoked
+40602,22,never smoked
+65116,62,smokes
+70455,52,formerly smoked
+41618,61,never smoked
+21209,10,never smoked
+26103,36,never smoked
+10436,29,never smoked
+16550,69,Unknown
+17697,62,never smoked
+10744,62,never smoked
+7799,79,never smoked
+57183,13,Unknown
+121,38,Unknown
+32604,49,never smoked
+49883,41,formerly smoked
+68242,56,never smoked
+33726,8,Unknown
+56255,24,never smoked
+46455,61,Unknown
+13270,40,never smoked
+38067,22,formerly smoked
+9160,80,never smoked
+52843,60,never smoked
+67343,57,never smoked
+50805,55,never smoked
+10826,39,smokes
+60358,51,never smoked
+72231,47,never smoked
+58586,77,smokes
+50499,32,never smoked
+18986,45,never smoked
+51177,49,formerly smoked
+575,13,Unknown
+47321,74,never smoked
+7754,72,formerly smoked
+66270,57,Unknown
+2814,51,never smoked
+52847,55,never smoked
+60235,73,never smoked
+10981,12,never smoked
+62833,6,Unknown
+26267,76,smokes
+69918,38,never smoked
+44927,50,Unknown
+20169,75,Unknown
+31481,1.16,Unknown
+27721,32,smokes
+71419,12,Unknown
+25642,32,Unknown
+31932,13,Unknown
+13629,1.32,Unknown
+38258,63,formerly smoked
+70602,29,smokes
+60056,53,smokes
+31156,49,never smoked
+69643,81,formerly smoked
+23171,66,Unknown
+42309,42,smokes
+2877,61,smokes
+37011,52,Unknown
+355,8,Unknown
+53252,82,never smoked
+3553,43,smokes
+72178,4,Unknown
+11817,58,formerly smoked
+26468,45,smokes
+13176,62,never smoked
+67032,42,Unknown
+39784,72,never smoked
+56156,26,formerly smoked
+15230,9,Unknown
+25218,31,never smoked
+39637,20,Unknown
+26777,22,never smoked
+60533,23,Unknown
+44375,57,smokes
+49848,52,never smoked
+65413,64,never smoked
+31161,26,never smoked
+61787,54,formerly smoked
+53482,32,formerly smoked
+71387,66,never smoked
+7577,13,Unknown
+34400,77,never smoked
+45175,18,Unknown
+71192,11,Unknown
+26997,16,never smoked
+33532,73,never smoked
+33704,44,Unknown
+51897,36,smokes
+43016,10,Unknown
+3370,54,Unknown
+39984,42,formerly smoked
+59232,52,Unknown
+57896,32,smokes
+21917,43,Unknown
+66435,28,never smoked
+3442,79,Unknown
+48064,11,never smoked
+13358,75,never smoked
+64986,55,never smoked
+6032,78,Unknown
+52924,48,formerly smoked
+69979,73,smokes
+50489,56,never smoked
+20094,54,formerly smoked
+16618,55,Unknown
+63280,65,formerly smoked
+14551,69,formerly smoked
+22098,29,never smoked
+17771,64,never smoked
+11803,16,formerly smoked
+34356,75,formerly smoked
+26528,17,never smoked
+51554,42,Unknown
+2296,78,Unknown
+10624,24,smokes
+1681,68,smokes
+36375,50,Unknown
+8117,52,formerly smoked
+49849,82,formerly smoked
+19436,56,smokes
+10523,56,Unknown
+39322,18,Unknown
+53265,33,Unknown
+40379,57,never smoked
+66841,30,Unknown
+38900,52,Unknown
+18180,3,Unknown
+1183,39,smokes
+22964,44,smokes
+64597,33,Unknown
+23893,24,smokes
+51564,24,never smoked
+14410,54,smokes
+4964,72,never smoked
+15020,37,Unknown
+27380,36,formerly smoked
+21523,22,smokes
+8819,68,formerly smoked
+68408,24,smokes
+8976,35,never smoked
+22290,32,never smoked
+7700,52,never smoked
+40503,21,never smoked
+47917,82,never smoked
+30303,33,formerly smoked
+63864,62,Unknown
+24177,57,formerly smoked
+57274,14,never smoked
+37213,60,Unknown
+59992,63,never smoked
+27382,50,never smoked
+61017,12,Unknown
+61699,80,formerly smoked
+14489,74,Unknown
+54053,46,formerly smoked
+38348,66,never smoked
+17668,26,smokes
+11792,70,formerly smoked
+22917,62,formerly smoked
+36204,15,never smoked
+49554,67,formerly smoked
+72594,63,smokes
+28027,42,never smoked
+54177,49,formerly smoked
+32602,78,Unknown
+1213,31,formerly smoked
+21534,67,Unknown
+6852,52,never smoked
+3379,61,Unknown
+41146,41,never smoked
+20391,73,never smoked
+69379,64,never smoked
+34778,65,formerly smoked
+49270,81,Unknown
+55407,47,formerly smoked
+36744,40,never smoked
+26603,46,Unknown
+71414,2,Unknown
+14517,56,formerly smoked
+69050,54,formerly smoked
+52080,26,never smoked
+27493,45,never smoked
+6295,57,smokes
+20375,78,formerly smoked
+29017,2,Unknown
+56635,76,formerly smoked
+4280,51,never smoked
+22896,54,formerly smoked
+70297,36,never smoked
+47776,57,never smoked
+53141,25,never smoked
+16145,7,Unknown
+41593,76,formerly smoked
+50651,45,Unknown
+11111,66,formerly smoked
+15803,45,Unknown
+71597,79,formerly smoked
+22804,25,formerly smoked
+64498,53,formerly smoked
+41182,35,smokes
+56606,78,Unknown
+36958,32,never smoked
+14877,0.56,Unknown
+65988,26,Unknown
+50001,34,smokes
+27034,65,smokes
+8950,15,formerly smoked
+31850,17,Unknown
+14288,71,formerly smoked
+3180,42,never smoked
+13899,30,never smoked
+23730,75,Unknown
+6011,9,Unknown
+14376,47,smokes
+22052,75,formerly smoked
+24836,61,formerly smoked
+11861,61,never smoked
+25613,27,smokes
+71496,55,never smoked
+24074,2,Unknown
+44937,51,never smoked
+72082,45,smokes
+53271,36,formerly smoked
+34077,46,formerly smoked
+42330,48,smokes
+69487,79,formerly smoked
+70973,50,never smoked
+44986,79,Unknown
+2633,32,never smoked
+21834,36,never smoked
+49196,27,Unknown
+22939,22,Unknown
+55400,5,Unknown
+30870,9,Unknown
+247,31,never smoked
+7979,26,never smoked
+56189,43,smokes
+3984,33,never smoked
+49753,34,formerly smoked
+71719,66,formerly smoked
+11313,44,never smoked
+38070,56,never smoked
+50455,67,never smoked
+31766,18,never smoked
+24245,55,Unknown
+50726,61,smokes
+29955,0.08,Unknown
+64742,48,never smoked
+48518,44,never smoked
+42999,68,never smoked
+71447,52,never smoked
+61437,15,never smoked
+50428,2,Unknown
+8816,60,Unknown
+49556,37,Unknown
+67654,5,Unknown
+21989,25,Unknown
+46434,52,smokes
+3205,79,Unknown
+68692,61,formerly smoked
+44531,36,never smoked
+70392,34,Unknown
+37025,2,Unknown
+68965,43,smokes
+53843,1.48,Unknown
+5236,49,never smoked
+32110,2,Unknown
+17893,82,formerly smoked
+65794,81,never smoked
+65955,81,never smoked
+53924,1.08,Unknown
+70674,60,never smoked
+56410,1.88,Unknown
+9955,58,formerly smoked
+8410,8,Unknown
+46854,9,Unknown
+8168,34,formerly smoked
+30405,23,formerly smoked
+1301,74,never smoked
+42348,72,smokes
+38560,47,Unknown
+48129,56,never smoked
+10511,5,Unknown
+42481,27,Unknown
+59872,38,never smoked
+56282,13,never smoked
+6540,41,Unknown
+31378,50,never smoked
+32317,41,smokes
+9948,6,Unknown
+35182,62,Unknown
+5655,4,Unknown
+51762,59,Unknown
+68193,63,smokes
+49459,9,Unknown
+54776,41,Unknown
+45701,72,formerly smoked
+7953,45,never smoked
+65508,80,never smoked
+68539,19,Unknown
+12022,37,smokes
+3348,58,never smoked
+58466,77,Unknown
+50434,38,formerly smoked
+49974,49,Unknown
+54574,20,never smoked
+39342,23,never smoked
+2972,55,formerly smoked
+32717,16,Unknown
+14063,81,Unknown
+71724,23,never smoked
+4753,82,formerly smoked
+62076,48,Unknown
+6665,56,Unknown
+51385,61,smokes
+66973,43,formerly smoked
+59671,39,Unknown
+3946,22,never smoked
+17623,41,Unknown
+50644,37,Unknown
+54294,65,formerly smoked
+46767,8,Unknown
+12911,51,never smoked
+16109,63,formerly smoked
+47499,48,Unknown
+8790,17,Unknown
+11259,53,never smoked
+12003,75,never smoked
+71099,51,never smoked
+62090,51,never smoked
+10138,41,formerly smoked
+71424,75,never smoked
+44759,57,smokes
+21953,33,smokes
+52234,72,never smoked
+46461,52,smokes
+6973,11,Unknown
+5068,28,smokes
+65277,78,never smoked
+52679,82,formerly smoked
+36728,74,never smoked
+46797,31,never smoked
+63898,53,never smoked
+11371,0.24,Unknown
+13155,67,never smoked
+27125,17,never smoked
+15383,29,never smoked
+19828,56,smokes
+6289,15,Unknown
+44243,29,never smoked
+40167,79,smokes
+38078,82,never smoked
+34257,17,Unknown
+21653,8,Unknown
+63764,23,never smoked
+22194,36,Unknown
+16010,47,formerly smoked
+5074,24,smokes
+10243,60,never smoked
+52588,63,never smoked
+56996,44,smokes
+28315,38,never smoked
+15104,26,never smoked
+26604,18,never smoked
+27916,18,never smoked
+60249,13,Unknown
+45787,13,Unknown
+65526,47,formerly smoked
+72354,80,never smoked
+38938,24,Unknown
+39017,72,formerly smoked
+13219,5,Unknown
+3003,51,never smoked
+34543,82,Unknown
+21762,5,Unknown
+22003,66,formerly smoked
+6731,53,formerly smoked
+19032,15,never smoked
+55370,53,Unknown
+57288,78,never smoked
+31925,62,never smoked
+8264,41,Unknown
+448,49,Unknown
+38783,41,Unknown
+45961,78,never smoked
+27518,14,Unknown
+51106,1.48,Unknown
+42251,71,smokes
+33115,32,never smoked
+31701,16,never smoked
+21661,68,Unknown
+18837,0.56,Unknown
+57777,59,smokes
+62610,32,smokes
+2730,58,never smoked
+51116,40,formerly smoked
+22607,41,never smoked
+11595,21,never smoked
+24355,1.88,Unknown
+32563,55,never smoked
+18266,67,never smoked
+60088,49,formerly smoked
+14912,42,never smoked
+49939,54,never smoked
+64534,25,never smoked
+62914,62,Unknown
+4297,75,never smoked
+20399,72,never smoked
+1112,14,never smoked
+13276,38,Unknown
+1260,59,never smoked
+40509,23,never smoked
+15241,63,never smoked
+31344,82,formerly smoked
+55169,34,never smoked
+55740,8,Unknown
+62513,28,never smoked
+18040,49,never smoked
+10374,24,smokes
+37209,17,never smoked
+62306,69,formerly smoked
+54101,58,Unknown
+12259,50,formerly smoked
+37634,5,Unknown
+22548,34,never smoked
+65407,64,formerly smoked
+50723,47,smokes
+20890,61,smokes
+52472,14,Unknown
+42859,57,never smoked
+3167,53,formerly smoked
+56469,67,formerly smoked
+23851,57,formerly smoked
+30571,38,Unknown
+67786,13,Unknown
+41404,37,never smoked
+33960,39,never smoked
+70833,13,Unknown
+65731,57,smokes
+57968,11,Unknown
+57539,68,never smoked
+17745,79,formerly smoked
+33252,24,Unknown
+69789,44,Unknown
+40076,46,never smoked
+10323,66,smokes
+23514,61,formerly smoked
+37395,16,smokes
+8240,37,smokes
+9620,43,never smoked
+7092,27,never smoked
+50216,44,formerly smoked
+59506,14,Unknown
+43397,81,Unknown
+62384,52,formerly smoked
+10651,54,formerly smoked
+69750,77,never smoked
+55455,27,never smoked
+34230,35,formerly smoked
+65154,30,never smoked
+36298,48,never smoked
+13171,15,never smoked
+62983,26,smokes
+44834,38,Unknown
+67411,29,smokes
+5455,49,Unknown
+49267,55,formerly smoked
+60464,52,smokes
+56286,49,Unknown
+5223,21,Unknown
+53302,24,formerly smoked
+59309,18,Unknown
+69824,52,never smoked
+13173,70,formerly smoked
+52579,51,never smoked
+59451,58,never smoked
+56875,46,smokes
+16774,79,Unknown
+61672,11,Unknown
+25811,61,never smoked
+7780,51,never smoked
+58149,21,Unknown
+38742,71,never smoked
+29613,13,Unknown
+20655,16,never smoked
+53897,61,never smoked
+29792,49,Unknown
+15990,65,never smoked
+45112,40,never smoked
+28385,44,smokes
+63423,11,Unknown
+187,20,smokes
+18891,24,never smoked
+34657,44,never smoked
+40546,5,Unknown
+56755,41,never smoked
+71097,23,never smoked
+21025,7,Unknown
+69020,74,never smoked
+48883,61,never smoked
+71297,80,smokes
+52216,35,never smoked
+20421,43,never smoked
+36896,25,Unknown
+23535,72,formerly smoked
+1323,45,never smoked
+47309,9,Unknown
+34161,33,never smoked
+57405,53,formerly smoked
+15824,67,never smoked
+32103,59,never smoked
+18205,1.32,Unknown
+71420,27,smokes
+298,41,Unknown
+15136,64,Unknown
+9879,55,Unknown
+68302,40,never smoked
+65507,33,never smoked
+63949,33,never smoked
+62475,39,smokes
+35648,74,never smoked
+72276,38,never smoked
+49661,53,never smoked
+31590,22,never smoked
+8584,5,Unknown
+7964,24,formerly smoked
+25130,27,Unknown
+3531,41,formerly smoked
+6529,20,never smoked
+22272,71,never smoked
+40702,65,never smoked
+1656,38,never smoked
+51988,25,Unknown
+48323,53,Unknown
+35155,50,formerly smoked
+46314,1.24,Unknown
+12906,55,never smoked
+24961,38,never smoked
+14000,72,formerly smoked
+23047,43,never smoked
+6827,30,never smoked
+44656,69,formerly smoked
+59801,61,never smoked
+51073,34,never smoked
+34966,43,formerly smoked
+41122,62,never smoked
+4449,48,smokes
+54726,37,never smoked
+1772,64,never smoked
+4850,51,never smoked
+44886,69,formerly smoked
+26076,75,formerly smoked
+54962,27,Unknown
+1116,49,never smoked
+28247,82,smokes
+39563,36,smokes
+49553,1.88,Unknown
+14872,45,Unknown
+57598,64,formerly smoked
+70022,32,never smoked
+70365,15,Unknown
+57219,1.64,Unknown
+28344,34,Unknown
+50785,17,never smoked
+17251,76,formerly smoked
+48459,61,smokes
+68843,30,smokes
+27523,18,Unknown
+61651,48,never smoked
+22877,0.16,Unknown
+52859,4,Unknown
+55631,38,never smoked
+7003,27,never smoked
+68447,50,Unknown
+13817,19,Unknown
+12117,8,Unknown
+40210,78,formerly smoked
+23360,0.8,Unknown
+28447,53,smokes
+72398,73,never smoked
+7859,34,smokes
+20140,58,never smoked
+46903,62,never smoked
+61333,78,Unknown
+7403,51,Unknown
+69370,78,formerly smoked
+43549,40,never smoked
+2903,35,never smoked
+70268,82,formerly smoked
+11003,46,Unknown
+61475,51,never smoked
+27608,53,Unknown
+9923,55,never smoked
+28091,43,formerly smoked
+59749,81,formerly smoked
+8719,12,formerly smoked
+58154,20,smokes
+31712,53,never smoked
+14249,1.32,Unknown
+30693,22,never smoked
+18866,75,never smoked
+36909,66,never smoked
+63562,7,Unknown
+29352,26,never smoked
+44024,14,never smoked
+24068,32,Unknown
+57602,6,Unknown
+16536,42,never smoked
+6639,4,Unknown
+6528,75,formerly smoked
+42594,80,never smoked
+59045,52,never smoked
+31608,11,Unknown
+47949,14,Unknown
+41362,74,never smoked
+18187,58,Unknown
+8983,80,never smoked
+20098,31,never smoked
+3777,28,never smoked
+11651,25,never smoked
+28527,71,never smoked
+63282,51,never smoked
+37038,15,Unknown
+4528,45,never smoked
+41665,53,never smoked
+26539,69,formerly smoked
+25325,42,formerly smoked
+69462,4,Unknown
+29816,64,formerly smoked
+47784,5,Unknown
+18181,44,smokes
+8614,78,formerly smoked
+347,16,Unknown
+61336,69,never smoked
+27647,80,Unknown
+25676,7,Unknown
+65894,2,Unknown
+2291,80,Unknown
+25630,69,never smoked
+38575,58,formerly smoked
+29326,75,formerly smoked
+59292,60,never smoked
+52051,75,smokes
+64508,10,Unknown
+36593,38,smokes
+39834,28,smokes
+54111,3,Unknown
+53476,31,never smoked
+479,59,formerly smoked
+37237,31,smokes
+5496,45,never smoked
+56075,58,never smoked
+46130,57,smokes
+7730,31,smokes
+12380,43,never smoked
+15324,40,Unknown
+11658,1.08,Unknown
+22778,34,never smoked
+4128,55,formerly smoked
+36825,39,formerly smoked
+1454,42,never smoked
+12674,44,formerly smoked
+55375,69,never smoked
+3726,16,Unknown
+48652,8,Unknown
+68657,1.48,Unknown
+17337,1.88,Unknown
+44831,69,smokes
+68420,13,formerly smoked
+39632,53,never smoked
+49095,16,Unknown
+46292,64,never smoked
+43492,7,Unknown
+55766,41,Unknown
+17740,65,formerly smoked
+64189,61,Unknown
+24202,63,never smoked
+32514,1.8,Unknown
+9866,54,Unknown
+54816,14,never smoked
+59880,45,Unknown
+20625,51,smokes
+65969,8,Unknown
+56923,52,smokes
+44001,39,Unknown
+51852,13,Unknown
+27176,69,never smoked
+70874,71,Unknown
+34287,73,Unknown
+23052,54,formerly smoked
+67499,10,never smoked
+5380,26,never smoked
+20154,41,Unknown
+29546,71,formerly smoked
+3718,46,smokes
+43734,15,never smoked
+41917,29,never smoked
+8050,8,Unknown
+44426,21,never smoked
+34700,56,formerly smoked
+70230,14,never smoked
+68721,78,Unknown
+23170,36,never smoked
+5731,57,smokes
+62791,79,never smoked
+18943,26,Unknown
+45472,22,never smoked
+3942,72,never smoked
+30201,54,never smoked
+38284,8,Unknown
+53552,62,never smoked
+59663,28,never smoked
+68631,50,Unknown
+49900,7,Unknown
+18140,33,never smoked
+52340,55,smokes
+2327,25,Unknown
+55137,25,smokes
+458,37,smokes
+57044,58,Unknown
+71548,45,smokes
+67438,60,Unknown
+36524,66,formerly smoked
+61827,80,formerly smoked
+31454,38,never smoked
+15663,11,Unknown
+4707,63,Unknown
+55885,19,Unknown
+47563,17,never smoked
+63729,19,smokes
+5286,40,never smoked
+29878,49,Unknown
+42628,69,never smoked
+5006,46,never smoked
+11250,78,formerly smoked
+41858,63,never smoked
+15742,3,Unknown
+27300,1.8,Unknown
+34965,18,never smoked
+65748,46,never smoked
+44635,8,Unknown
+72284,53,smokes
+20217,38,never smoked
+44259,74,Unknown
+52668,24,never smoked
+37446,78,never smoked
+46895,60,never smoked
+57667,12,formerly smoked
+41962,32,Unknown
+25495,5,Unknown
+2029,40,never smoked
+13993,19,Unknown
+18876,28,never smoked
+22865,61,never smoked
+365,44,never smoked
+37631,50,smokes
+5500,50,smokes
+53217,18,Unknown
+56712,1.64,Unknown
+10055,37,formerly smoked
+4959,5,Unknown
+22155,39,Unknown
+22860,65,never smoked
+6960,26,Unknown
+57209,42,Unknown
+66581,34,never smoked
+17347,45,formerly smoked
+58422,43,Unknown
+19043,40,never smoked
+52897,35,smokes
+16329,2,Unknown
+40353,61,never smoked
+56778,64,smokes
+41153,32,never smoked
+63725,23,formerly smoked
+19675,51,never smoked
+72784,52,smokes
+8541,75,never smoked
+45565,40,never smoked
+36431,39,never smoked
+6171,6,Unknown
+29419,32,never smoked
+65673,55,never smoked
+64662,23,never smoked
+51693,52,never smoked
+50495,58,never smoked
+37086,17,Unknown
+71396,3,Unknown
+27854,23,never smoked
+53759,56,formerly smoked
+14407,45,Unknown
+887,14,formerly smoked
+13328,45,Unknown
+62507,57,never smoked
+51797,35,Unknown
+61536,8,Unknown
+71221,42,never smoked
+6948,8,Unknown
+66083,62,never smoked
+21238,43,never smoked
+70992,8,Unknown
+20376,40,smokes
+6613,2,Unknown
+27818,27,never smoked
+3062,47,never smoked
+11692,53,smokes
+25070,62,Unknown
+39556,50,smokes
+18437,26,smokes
+59540,19,never smoked
+13857,0.32,Unknown
+57924,45,never smoked
+38069,45,Unknown
+48871,54,smokes
+63420,64,formerly smoked
+67665,2,Unknown
+50638,66,smokes
+43892,73,never smoked
+9335,31,smokes
+38830,1.88,Unknown
+14019,58,never smoked
+65888,12,Unknown
+62986,60,formerly smoked
+61409,32,formerly smoked
+72041,23,smokes
+51584,26,smokes
+56476,36,never smoked
+51740,3,Unknown
+45983,21,Unknown
+16079,67,Unknown
+24920,35,smokes
+72818,26,Unknown
+65944,47,smokes
+63836,81,formerly smoked
+46729,1.64,Unknown
+44642,52,never smoked
+70693,28,smokes
+54065,45,never smoked
+9926,20,smokes
+29201,1.56,Unknown
+33308,65,formerly smoked
+15937,45,formerly smoked
+53748,77,Unknown
+47803,37,Unknown
+41554,50,smokes
+69435,0.56,Unknown
+41049,30,never smoked
+13859,31,smokes
+24257,4,Unknown
+14417,65,Unknown
+45260,68,never smoked
+12807,63,never smoked
+71417,46,never smoked
+37479,54,smokes
+23850,66,never smoked
+17791,29,never smoked
+2544,78,formerly smoked
+4961,56,Unknown
+2702,57,Unknown
+11208,2,Unknown
+4077,49,Unknown
+36548,31,formerly smoked
+71596,47,Unknown
+61050,37,never smoked
+6172,79,smokes
+15098,65,never smoked
+34895,61,formerly smoked
+6443,66,smokes
+67635,24,never smoked
+19931,66,smokes
+57302,64,Unknown
+26197,38,smokes
+54982,7,Unknown
+13398,63,never smoked
+21101,71,never smoked
+39958,18,never smoked
+51894,65,smokes
+56001,57,Unknown
+56137,62,Unknown
+25900,1.8,Unknown
+69213,35,never smoked
+38613,50,never smoked
+27660,73,formerly smoked
+33790,23,never smoked
+50845,32,formerly smoked
+44628,38,never smoked
+38951,50,Unknown
+52792,39,smokes
+27675,7,Unknown
+6903,15,Unknown
+35463,67,never smoked
+172,8,Unknown
+16876,32,Unknown
+60926,5,Unknown
+21333,56,smokes
+69183,49,Unknown
+2313,75,smokes
+8041,11,Unknown
+68171,61,formerly smoked
+27948,76,never smoked
+45673,34,Unknown
+50810,20,Unknown
+2467,79,never smoked
+64165,24,formerly smoked
+22352,39,formerly smoked
+62990,55,formerly smoked
+1737,16,never smoked
+26357,36,Unknown
+28013,38,never smoked
+24727,20,smokes
+37608,38,formerly smoked
+13870,52,smokes
+4655,49,never smoked
+55356,80,never smoked
+49400,75,never smoked
+38132,13,never smoked
+50136,54,smokes
+3094,28,Unknown
+42727,61,Unknown
+41500,0.16,Unknown
+33185,59,formerly smoked
+7057,12,Unknown
+48244,38,smokes
+69559,15,Unknown
+61757,31,never smoked
+10541,52,never smoked
+48169,61,Unknown
+64202,50,Unknown
+7069,41,formerly smoked
+52050,20,never smoked
+31692,67,never smoked
+11192,45,smokes
+69404,73,Unknown
+42700,52,Unknown
+7638,51,formerly smoked
+7298,56,never smoked
+43615,49,Unknown
+18134,10,Unknown
+19324,51,Unknown
+18827,57,formerly smoked
+68291,76,Unknown
+70661,28,formerly smoked
+6019,57,never smoked
+56616,39,formerly smoked
+14399,41,formerly smoked
+8009,72,formerly smoked
+30961,45,smokes
+24201,33,never smoked
+18032,62,smokes
+62396,27,never smoked
+67055,31,formerly smoked
+51024,24,never smoked
+60774,1.88,Unknown
+35039,28,never smoked
+46141,24,Unknown
+54240,30,Unknown
+15929,38,never smoked
+19849,1.64,Unknown
+43282,0.72,Unknown
+50372,57,never smoked
+5834,27,smokes
+69847,30,never smoked
+67277,42,never smoked
+41181,36,never smoked
+36388,44,never smoked
+49272,59,never smoked
+52024,61,formerly smoked
+58508,18,formerly smoked
+64159,44,smokes
+29453,16,Unknown
+52838,13,never smoked
+43024,9,Unknown
+8247,0.16,Unknown
+42159,81,never smoked
+37761,38,formerly smoked
+27624,58,never smoked
+40242,5,Unknown
+4383,64,formerly smoked
+58577,38,never smoked
+59916,56,smokes
+44526,58,never smoked
+12990,9,Unknown
+14414,34,never smoked
+46343,79,Unknown
+29539,62,smokes
+10924,60,smokes
+30248,42,smokes
+39769,59,smokes
+28778,54,smokes
+65257,59,never smoked
+7233,15,Unknown
+67773,14,Unknown
+14993,5,Unknown
+59054,17,Unknown
+22554,13,Unknown
+72512,48,smokes
+56195,37,never smoked
+7524,69,never smoked
+45795,74,formerly smoked
+64433,54,formerly smoked
+70106,64,never smoked
+50072,26,never smoked
+52530,55,never smoked
+768,74,formerly smoked
+40255,0.48,Unknown
+50073,41,formerly smoked
+52439,68,never smoked
+65379,9,Unknown
+38605,36,smokes
+35772,17,Unknown
+38014,24,smokes
+68330,69,never smoked
+47271,38,Unknown
+26330,69,formerly smoked
+24022,32,Unknown
+45622,25,smokes
+60732,2,Unknown
+53694,79,Unknown
+11280,28,never smoked
+28734,16,never smoked
+12693,31,smokes
+17683,66,smokes
+36155,57,formerly smoked
+31390,61,formerly smoked
+10636,74,formerly smoked
+71659,70,never smoked
+52305,8,Unknown
+9602,49,Unknown
+68407,30,never smoked
+72011,51,formerly smoked
+40568,10,formerly smoked
+50206,34,formerly smoked
+41191,40,never smoked
+7129,3,Unknown
+45485,45,Unknown
+32023,4,Unknown
+33064,52,never smoked
+60896,68,never smoked
+2109,8,Unknown
+27705,82,Unknown
+36850,36,Unknown
+52500,42,never smoked
+43698,27,Unknown
+49901,55,smokes
+69120,31,never smoked
+25510,82,formerly smoked
+60416,57,never smoked
+15135,78,formerly smoked
+34660,55,formerly smoked
+11713,51,formerly smoked
+40704,80,Unknown
+71298,17,never smoked
+54497,61,Unknown
+30129,62,never smoked
+44965,14,Unknown
+38549,62,never smoked
+39236,56,smokes
+50545,41,never smoked
+28435,59,Unknown
+4631,29,Unknown
+9912,39,Unknown
+43028,66,Unknown
+38894,35,never smoked
+41238,36,never smoked
+51828,35,Unknown
+64196,26,smokes
+10626,31,formerly smoked
+4117,56,never smoked
+37993,36,never smoked
+57765,41,never smoked
+7841,50,never smoked
+18398,42,never smoked
+50210,79,never smoked
+52461,57,never smoked
+32523,68,Unknown
+49509,25,never smoked
+16377,69,formerly smoked
+13902,42,Unknown
+44047,37,never smoked
+34184,2,Unknown
+11312,78,formerly smoked
+39616,36,smokes
+57322,10,Unknown
+28011,39,Unknown
+242,4,Unknown
+18178,48,never smoked
+51823,72,smokes
+23439,63,smokes
+12594,28,smokes
+2692,80,never smoked
+26062,49,never smoked
+6805,57,Unknown
+45817,59,never smoked
+66306,43,never smoked
+62167,47,Unknown
+16627,54,formerly smoked
+34285,57,Unknown
+71151,56,never smoked
+2580,66,never smoked
+11891,18,never smoked
+57080,81,formerly smoked
+47456,30,formerly smoked
+56139,8,Unknown
+12857,55,smokes
+40980,79,formerly smoked
+47668,49,Unknown
+72792,53,never smoked
+37728,26,never smoked
+47410,14,Unknown
+56450,25,never smoked
+9189,20,never smoked
+71966,18,never smoked
+59272,38,smokes
+45563,72,smokes
+19907,52,Unknown
+40163,82,formerly smoked
+62738,71,smokes
+51651,46,formerly smoked
+39940,33,never smoked
+8122,37,Unknown
+71057,54,smokes
+67921,5,Unknown
+12834,45,formerly smoked
+56567,14,Unknown
+11872,5,Unknown
+6574,35,never smoked
+5294,20,Unknown
+10870,51,never smoked
+15062,40,smokes
+46454,79,never smoked
+31795,61,never smoked
+62395,33,smokes
+42760,27,smokes
+27119,28,never smoked
+47113,67,never smoked
+36045,35,never smoked
+54871,78,never smoked
+48824,20,never smoked
+67356,43,never smoked
+70670,27,never smoked
+58477,45,never smoked
+53636,11,never smoked
+24262,31,never smoked
+33886,30,smokes
+59126,27,Unknown
+31697,34,smokes
+10018,19,Unknown
+52447,3,Unknown
+23238,53,smokes
+4148,81,formerly smoked
+63404,44,formerly smoked
+13540,59,Unknown
+44288,43,formerly smoked
+23194,32,Unknown
+751,5,Unknown
+7047,31,smokes
+68020,47,Unknown
+11325,12,never smoked
+25636,40,Unknown
+60602,49,never smoked
+51856,38,never smoked
+13031,15,never smoked
+19498,81,Unknown
+51476,48,never smoked
+49762,24,smokes
+23449,47,never smoked
+51374,13,Unknown
+41263,16,never smoked
+6599,64,never smoked
+16320,11,Unknown
+64670,55,formerly smoked
+35941,38,never smoked
+64931,37,never smoked
+27416,34,Unknown
+43433,52,Unknown
+21366,50,formerly smoked
+14658,37,Unknown
+7538,55,smokes
+52092,2,Unknown
+45372,68,smokes
+63043,27,formerly smoked
+67,17,formerly smoked
+68034,53,never smoked
+63026,5,Unknown
+18352,3,Unknown
+36087,20,formerly smoked
+27480,19,never smoked
+38074,31,smokes
+66690,63,never smoked
+31131,49,smokes
+26884,72,formerly smoked
+26935,50,smokes
+17569,41,Unknown
+24585,40,never smoked
+53954,17,Unknown
+13286,3,Unknown
+7653,33,Unknown
+59027,12,never smoked
+70318,23,Unknown
+15422,31,formerly smoked
+56692,65,smokes
+45395,43,smokes
+39977,22,never smoked
+14553,7,Unknown
+40998,81,never smoked
+71900,10,Unknown
+3318,18,smokes
+41481,5,Unknown
+24854,24,never smoked
+22330,45,Unknown
+14892,46,never smoked
+36710,64,Unknown
+29267,25,never smoked
+17098,12,Unknown
+61384,81,never smoked
+69732,65,never smoked
+61238,40,Unknown
+18696,81,formerly smoked
+25643,36,never smoked
+63333,32,smokes
+23210,31,never smoked
+2647,55,smokes
+60934,39,formerly smoked
+50412,17,Unknown
+1192,31,never smoked
+55361,36,never smoked
+50141,5,Unknown
+12963,29,Unknown
+55337,2,Unknown
+23989,62,smokes
+26025,45,never smoked
+67711,18,Unknown
+53105,29,smokes
+10696,52,formerly smoked
+43656,59,formerly smoked
+52361,69,formerly smoked
+57343,71,Unknown
+23339,3,Unknown
+51408,33,never smoked
+47886,43,Unknown
+21407,39,formerly smoked
+34026,60,never smoked
+53004,54,never smoked
+18833,61,smokes
+69222,0.24,Unknown
+32610,11,never smoked
+57645,75,Unknown
+21677,64,formerly smoked
+50410,78,never smoked
+25051,14,never smoked
+31642,66,never smoked
+60455,48,never smoked
+52172,44,Unknown
+69647,30,never smoked
+24972,1.48,Unknown
+13172,61,never smoked
+31911,54,formerly smoked
+34415,22,Unknown
+53219,47,smokes
+7924,67,formerly smoked
+72491,53,smokes
+59058,45,never smoked
+52619,65,never smoked
+36162,39,never smoked
+68371,57,Unknown
+21067,45,never smoked
+25718,28,formerly smoked
+24421,30,Unknown
+69528,31,formerly smoked
+56594,70,smokes
+35095,17,Unknown
+30002,44,never smoked
+71143,65,formerly smoked
+32669,6,Unknown
+17174,15,Unknown
+2818,80,formerly smoked
+30650,54,formerly smoked
+3013,79,never smoked
+42806,60,smokes
+6390,12,Unknown
+46647,36,never smoked
+6625,54,smokes
+49605,63,formerly smoked
+72940,2,Unknown
+24783,28,formerly smoked
+22515,38,smokes
+3700,37,smokes
+53802,80,Unknown
+49955,43,formerly smoked
+2456,60,smokes
+71515,66,never smoked
+44662,45,Unknown
+38661,29,never smoked
+15978,4,Unknown
+35210,48,never smoked
+49930,68,never smoked
+27789,57,never smoked
+45325,29,never smoked
+31092,30,never smoked
+40705,47,never smoked
+28513,73,smokes
+12367,66,Unknown
+63915,39,never smoked
+10166,66,Unknown
+35999,52,formerly smoked
+8964,34,never smoked
+38207,79,never smoked
+52681,39,smokes
+38980,61,formerly smoked
+33924,26,smokes
+10135,37,Unknown
+46517,66,formerly smoked
+65966,16,formerly smoked
+56575,51,smokes
+43138,15,never smoked
+36633,1.72,Unknown
+11632,60,Unknown
+31153,66,formerly smoked
+52247,75,never smoked
+61987,40,smokes
+64416,52,Unknown
+31708,13,Unknown
+62296,44,Unknown
+53976,37,Unknown
+16446,2,Unknown
+51329,48,never smoked
+33560,81,never smoked
+37866,76,never smoked
+8553,58,Unknown
+5654,11,Unknown
+17238,9,Unknown
+45252,54,never smoked
+14444,37,Unknown
+46503,16,never smoked
+18578,11,Unknown
+917,32,smokes
+60981,26,never smoked
+28873,21,never smoked
+25446,45,never smoked
+54127,40,formerly smoked
+63478,41,Unknown
+15464,71,Unknown
+63312,16,smokes
+55681,7,Unknown
+63804,27,smokes
+10321,22,Unknown
+56339,79,Unknown
+56277,38,smokes
+33657,64,formerly smoked
+7054,4,Unknown
+72393,23,never smoked
+68059,35,smokes
+14996,66,Unknown
+841,34,never smoked
+22880,19,Unknown
+1552,73,never smoked
+68853,70,Unknown
+49190,45,never smoked
+49277,34,formerly smoked
+711,81,never smoked
+1953,0.72,Unknown
+34900,13,Unknown
+13237,57,never smoked
+61684,38,never smoked
+28382,21,Unknown
+13768,38,Unknown
+32726,41,never smoked
+65729,26,never smoked
+6422,48,Unknown
+11382,18,never smoked
+31703,66,never smoked
+33439,27,Unknown
+5647,18,formerly smoked
+1847,20,never smoked
+12900,11,never smoked
+28367,7,Unknown
+71551,54,Unknown
+13846,43,never smoked
+61667,61,never smoked
+46079,31,smokes
+7871,40,smokes
+60964,71,formerly smoked
+72562,57,never smoked
+63773,13,never smoked
+53998,21,never smoked
+16617,63,never smoked
+54117,7,Unknown
+5987,78,never smoked
+72215,66,never smoked
+39796,41,never smoked
+12345,11,never smoked
+65636,55,Unknown
+47356,42,formerly smoked
+27859,51,formerly smoked
+41715,79,never smoked
+38617,28,never smoked
+32638,73,never smoked
+47799,42,never smoked
+41942,37,never smoked
+69010,78,formerly smoked
+47144,74,formerly smoked
+65103,59,formerly smoked
+6472,78,smokes
+27596,82,formerly smoked
+59522,71,never smoked
+51512,19,Unknown
+53821,18,never smoked
+51532,53,never smoked
+50070,62,formerly smoked
+41654,3,Unknown
+5714,49,never smoked
+2304,51,smokes
+8543,53,never smoked
+45279,10,Unknown
+57870,54,smokes
+56961,40,never smoked
+8623,3,Unknown
+21346,12,Unknown
+36922,56,never smoked
+19814,43,never smoked
+22151,28,smokes
+47802,28,formerly smoked
+25404,56,never smoked
+43487,14,Unknown
+58313,63,formerly smoked
+16629,29,never smoked
+60675,48,never smoked
+1119,47,smokes
+64864,63,smokes
+55244,40,never smoked
+23568,40,Unknown
+56979,55,smokes
+66006,43,never smoked
+40447,59,never smoked
+62798,78,smokes
+38397,27,never smoked
+66945,49,never smoked
+44992,14,formerly smoked
+50009,17,formerly smoked
+5170,42,Unknown
+16263,36,Unknown
+16024,19,smokes
+47057,55,Unknown
+34045,8,Unknown
+59691,56,Unknown
+49261,54,formerly smoked
+30734,15,Unknown
+72184,43,formerly smoked
+37440,52,formerly smoked
+54400,62,never smoked
+56547,54,never smoked
+13598,60,formerly smoked
+24246,7,Unknown
+29276,3,Unknown
+20979,39,never smoked
+46048,60,never smoked
+35217,60,never smoked
+11816,46,never smoked
+48721,26,never smoked
+24163,12,Unknown
+8022,16,never smoked
+10950,2,Unknown
+21830,82,smokes
+26594,32,smokes
+14789,62,formerly smoked
+46670,75,never smoked
+31426,81,never smoked
+64435,37,never smoked
+68789,28,Unknown
+56254,25,smokes
+17478,44,never smoked
+59908,11,Unknown
+34130,54,never smoked
+22282,52,smokes
+21110,43,never smoked
+71622,56,never smoked
+10056,37,never smoked
+2424,60,Unknown
+24736,4,Unknown
+8920,51,formerly smoked
+62715,82,never smoked
+70615,56,Unknown
+43507,60,never smoked
+43035,35,smokes
+44799,32,never smoked
+49053,45,never smoked
+33102,10,formerly smoked
+59405,68,Unknown
+18283,51,smokes
+4929,8,Unknown
+37289,63,never smoked
+6202,4,Unknown
+24106,33,formerly smoked
+32126,56,smokes
+56322,49,never smoked
+54869,30,never smoked
+40887,16,never smoked
+29764,1.8,Unknown
+38287,54,formerly smoked
+53426,49,formerly smoked
+14943,17,never smoked
+65351,11,Unknown
+61830,51,never smoked
+71777,74,never smoked
+69059,42,never smoked
+11908,69,formerly smoked
+24955,22,smokes
+61477,25,smokes
+724,17,never smoked
+22614,64,smokes
+61997,50,Unknown
+6605,52,formerly smoked
+46987,65,formerly smoked
+70428,37,never smoked
+2267,31,never smoked
+25476,52,Unknown
+52960,56,formerly smoked
+56600,43,Unknown
+9394,11,Unknown
+42400,2,Unknown
+36210,16,never smoked
+34416,23,never smoked
+37192,40,Unknown
+20237,15,never smoked
+60635,48,never smoked
+32571,33,Unknown
+52368,46,smokes
+66786,53,smokes
+12668,68,never smoked
+64155,60,never smoked
+17885,57,smokes
+18930,51,never smoked
+15728,0.4,Unknown
+71846,76,smokes
+37515,46,Unknown
+25763,23,Unknown
+16566,9,Unknown
+30836,53,never smoked
+68060,4,Unknown
+51958,62,Unknown
+45285,37,Unknown
+19271,82,never smoked
+6576,33,formerly smoked
+6850,3,Unknown
+25798,14,never smoked
+28611,16,Unknown
+15061,40,Unknown
+40323,18,never smoked
+40842,29,formerly smoked
+23765,56,never smoked
+66287,33,formerly smoked
+50804,2,Unknown
+25927,36,never smoked
+41970,30,Unknown
+54206,31,formerly smoked
+46691,16,never smoked
+37553,58,formerly smoked
+27507,19,never smoked
+68209,47,formerly smoked
+42841,59,formerly smoked
+51889,40,never smoked
+72725,26,smokes
+18605,17,never smoked
+23599,30,never smoked
+45530,19,never smoked
+56425,78,Unknown
+69972,55,formerly smoked
+5774,59,Unknown
+13307,57,formerly smoked
+72188,33,never smoked
+60226,35,Unknown
+34940,32,never smoked
+4403,55,never smoked
+33051,28,Unknown
+37668,25,never smoked
+27276,45,Unknown
+37808,34,Unknown
+21678,33,smokes
+40087,65,never smoked
+38658,62,never smoked
+30353,36,never smoked
+28803,31,never smoked
+10445,54,Unknown
+12812,53,never smoked
+72289,44,smokes
+30433,77,Unknown
+37640,67,Unknown
+54378,48,never smoked
+34138,42,formerly smoked
+72160,72,formerly smoked
+44447,49,smokes
+5927,1.32,Unknown
+44233,45,Unknown
+56021,63,never smoked
+65038,33,never smoked
+3595,32,smokes
+25783,0.48,Unknown
+68268,63,Unknown
+7564,70,formerly smoked
+26723,57,never smoked
+9995,8,Unknown
+68074,54,formerly smoked
+8385,37,Unknown
+21796,59,formerly smoked
+53115,78,formerly smoked
+27623,59,Unknown
+70823,10,never smoked
+5173,21,smokes
+21852,2,Unknown
+24711,55,formerly smoked
+21967,20,smokes
+36793,38,never smoked
+37492,33,formerly smoked
+45658,14,never smoked
+6264,32,Unknown
+37507,32,never smoked
+50557,68,smokes
+21973,70,formerly smoked
+53346,24,formerly smoked
+41210,44,formerly smoked
+29078,39,smokes
+24873,81,never smoked
+15387,19,Unknown
+63880,69,never smoked
+49833,42,formerly smoked
+43773,8,Unknown
+53095,8,Unknown
+56185,28,smokes
+57043,66,formerly smoked
+55545,66,never smoked
+60899,47,never smoked
+16136,78,never smoked
+11843,65,formerly smoked
+3609,78,never smoked
+29172,68,never smoked
+49894,78,never smoked
+6048,65,never smoked
+16029,70,never smoked
+63022,59,never smoked
+40041,31,Unknown
+6924,32,smokes
+22590,5,Unknown
+25878,55,formerly smoked
+11169,61,formerly smoked
+44355,48,never smoked
+31113,1.16,Unknown
+46514,50,never smoked
+67466,63,formerly smoked
+3612,67,formerly smoked
+66590,43,formerly smoked
+19611,59,smokes
+47216,47,smokes
+55591,50,never smoked
+24381,51,never smoked
+8037,44,Unknown
+23911,39,never smoked
+31596,24,never smoked
+44647,62,never smoked
+51486,61,formerly smoked
+18263,78,never smoked
+41930,15,never smoked
+45922,23,never smoked
+52934,79,never smoked
+18020,57,never smoked
+2044,70,Unknown
+63467,9,Unknown
+38642,55,Unknown
+5387,82,never smoked
+68417,19,never smoked
+22477,41,Unknown
+23968,79,never smoked
+8111,23,Unknown
+15282,77,formerly smoked
+54395,78,never smoked
+25408,24,smokes
+69284,81,never smoked
+28348,46,Unknown
+46015,29,smokes
+69047,59,formerly smoked
+39706,41,smokes
+9143,17,formerly smoked
+64879,8,Unknown
+17130,23,never smoked
+16420,45,never smoked
+7529,67,formerly smoked
+54022,78,never smoked
+35660,18,Unknown
+50605,35,never smoked
+27803,54,never smoked
+68981,71,formerly smoked
+61505,24,smokes
+70677,60,formerly smoked
+49620,75,formerly smoked
+5319,48,never smoked
+51100,62,Unknown
+163,20,Unknown
+55140,69,never smoked
+52882,60,smokes
+54344,12,Unknown
+2550,28,formerly smoked
+58610,55,smokes
+16902,70,smokes
+60603,51,never smoked
+808,16,never smoked
+61881,56,smokes
+41600,52,never smoked
+12786,59,Unknown
+11935,9,Unknown
+44655,34,never smoked
+48644,47,formerly smoked
+41527,46,smokes
+50975,49,never smoked
+49179,10,never smoked
+27509,76,never smoked
+19191,82,formerly smoked
+25149,3,Unknown
+42626,76,never smoked
+2578,16,never smoked
+55975,44,never smoked
+62182,17,formerly smoked
+12037,73,never smoked
+21963,31,Unknown
+26250,17,Unknown
+13960,18,Unknown
+56573,73,formerly smoked
+10659,8,Unknown
+50763,42,never smoked
+62075,40,formerly smoked
+10119,79,never smoked
+48127,53,smokes
+65892,58,never smoked
+33370,48,Unknown
+59049,17,never smoked
+53896,23,smokes
+21980,9,Unknown
+70497,81,smokes
+58652,16,never smoked
+30335,21,never smoked
+26305,29,formerly smoked
+31227,8,Unknown
+5581,39,formerly smoked
+1989,37,smokes
+43803,64,smokes
+41395,9,Unknown
+71784,17,smokes
+57979,8,Unknown
+54437,62,Unknown
+67159,73,never smoked
+7230,48,never smoked
+68306,17,never smoked
+33087,10,Unknown
+40850,74,never smoked
+57612,62,never smoked
+37029,5,Unknown
+338,43,never smoked
+9565,39,never smoked
+3623,37,never smoked
+69723,15,never smoked
+47662,36,smokes
+58495,34,never smoked
+71222,75,formerly smoked
+37865,53,smokes
+20185,61,never smoked
+41875,45,smokes
+67602,17,Unknown
+40387,17,Unknown
+43208,19,Unknown
+54324,54,formerly smoked
+51110,51,formerly smoked
+36969,44,formerly smoked
+48118,82,never smoked
+4607,49,Unknown
+62471,34,never smoked
+43821,63,never smoked
+7218,79,never smoked
+23427,81,Unknown
+66014,14,Unknown
+41652,31,formerly smoked
+16605,57,never smoked
+42091,32,smokes
+66067,66,formerly smoked
+50222,22,smokes
+41214,1.32,Unknown
+72386,20,never smoked
+14918,41,smokes
+55457,48,smokes
+63323,49,formerly smoked
+35446,73,Unknown
+8208,19,smokes
+5131,51,Unknown
+68157,1.08,Unknown
+4795,31,Unknown
+7581,4,Unknown
+47383,1.8,Unknown
+14036,44,Unknown
+25942,4,Unknown
+24018,55,never smoked
+27801,34,never smoked
+52978,30,never smoked
+15593,7,Unknown
+11098,75,formerly smoked
+12015,14,Unknown
+47348,61,formerly smoked
+44155,55,formerly smoked
+62656,14,never smoked
+8838,36,smokes
+42563,57,formerly smoked
+31254,20,Unknown
+27922,32,never smoked
+1696,43,smokes
+54162,43,Unknown
+70396,1.08,Unknown
+65907,49,smokes
+49451,53,Unknown
+68601,18,never smoked
+13236,13,Unknown
+65998,5,Unknown
+5875,37,smokes
+47427,49,formerly smoked
+29734,45,formerly smoked
+72715,50,never smoked
+59847,12,never smoked
+59911,12,Unknown
+13583,5,Unknown
+22897,39,formerly smoked
+11898,41,never smoked
+14785,41,never smoked
+45163,47,smokes
+57254,57,formerly smoked
+30658,16,Unknown
+32617,3,Unknown
+65376,65,smokes
+1731,80,never smoked
+38441,58,never smoked
+22147,74,never smoked
+50663,62,smokes
+19165,33,Unknown
+60562,21,never smoked
+22013,17,never smoked
+39936,49,formerly smoked
+6517,24,smokes
+62576,56,never smoked
+18636,26,never smoked
+24299,54,smokes
+40826,42,never smoked
+53323,34,never smoked
+28717,56,never smoked
+53028,39,never smoked
+57757,77,never smoked
+54795,12,never smoked
+70267,65,formerly smoked
+34084,7,Unknown
+20258,25,never smoked
+65333,31,Unknown
+56629,14,Unknown
+22417,5,Unknown
+49925,60,smokes
+72696,53,never smoked
+39708,55,formerly smoked
+60426,69,Unknown
+70540,39,smokes
+37622,0.32,Unknown
+44813,34,smokes
+47153,80,formerly smoked
+8175,20,never smoked
+61528,45,never smoked
+38771,41,Unknown
+31189,54,smokes
+27804,23,Unknown
+41842,75,Unknown
+11962,36,never smoked
+45404,75,Unknown
+4062,72,smokes
+63650,47,formerly smoked
+72186,15,never smoked
+40240,40,smokes
+25931,71,formerly smoked
+21292,38,never smoked
+25391,10,Unknown
+65469,11,never smoked
+29487,0.72,Unknown
+63575,9,Unknown
+30457,53,smokes
+5951,28,smokes
+8690,81,never smoked
+32147,1.32,Unknown
+47691,16,never smoked
+25982,24,formerly smoked
+70058,62,smokes
+61868,62,formerly smoked
+46086,59,never smoked
+68596,19,never smoked
+10281,51,never smoked
+31409,38,never smoked
+54067,26,formerly smoked
+9731,13,Unknown
+24009,4,Unknown
+61694,55,never smoked
+7453,44,smokes
+66405,31,never smoked
+2138,58,never smoked
+66650,17,never smoked
+59945,23,never smoked
+16245,51,never smoked
+68094,46,Unknown
+64661,81,never smoked
+61376,38,formerly smoked
+47236,50,never smoked
+875,34,never smoked
+63986,60,never smoked
+55410,50,never smoked
+63287,49,smokes
+3720,2,Unknown
+20274,47,Unknown
+50338,34,formerly smoked
+58209,22,never smoked
+20634,11,never smoked
+3251,54,formerly smoked
+12677,60,never smoked
+45160,3,Unknown
+67940,46,never smoked
+8145,30,smokes
+39393,63,never smoked
+57710,50,Unknown
+12487,65,smokes
+16513,78,never smoked
+42297,36,Unknown
+63656,18,formerly smoked
+56233,44,never smoked
+22591,4,Unknown
+23757,60,Unknown
+19601,19,never smoked
+61801,15,Unknown
+949,20,never smoked
+10995,76,never smoked
+1503,31,smokes
+37431,39,Unknown
+53697,58,smokes
+67012,64,Unknown
+30525,79,formerly smoked
+25860,11,Unknown
+21743,4,Unknown
+25833,43,never smoked
+64652,44,never smoked
+45710,37,Unknown
+27853,34,never smoked
+5964,59,Unknown
+6976,40,never smoked
+11145,8,Unknown
+39229,24,never smoked
+14189,18,Unknown
+49929,20,never smoked
+56328,70,never smoked
+26742,68,formerly smoked
+63158,17,Unknown
+27435,17,Unknown
+10829,21,never smoked
+70593,38,formerly smoked
+42647,59,formerly smoked
+48109,79,never smoked
+40732,50,formerly smoked
+58635,72,formerly smoked
+844,54,smokes
+14688,44,smokes
+23026,48,never smoked
+30463,29,formerly smoked
+50140,44,smokes
+36837,61,never smoked
+57333,58,Unknown
+19826,81,formerly smoked
+37713,29,never smoked
+6278,5,Unknown
+15517,35,never smoked
+25326,40,Unknown
+57034,37,never smoked
+70718,33,never smoked
+47461,35,Unknown
+50091,38,smokes
+62416,26,never smoked
+5288,10,Unknown
+66951,72,never smoked
+28335,21,never smoked
+67465,20,never smoked
+67426,1.24,Unknown
+19508,26,formerly smoked
+65405,79,formerly smoked
+49773,78,formerly smoked
+57159,56,never smoked
+69710,46,never smoked
+58834,55,Unknown
+42007,41,formerly smoked
+5121,30,Unknown
+44878,53,smokes
+40220,32,formerly smoked
+19692,38,Unknown
+27616,33,never smoked
+19801,44,never smoked
+21467,44,Unknown
+25102,51,formerly smoked
+28788,40,smokes
+29028,41,never smoked
+15581,5,Unknown
+16738,42,never smoked
+31836,6,Unknown
+43496,46,never smoked
+52677,47,never smoked
+11630,25,smokes
+53478,40,formerly smoked
+38349,49,never smoked
+48425,21,never smoked
+64420,61,Unknown
+60271,78,formerly smoked
+38009,41,never smoked
+11184,82,never smoked
+68967,39,Unknown
+66684,70,Unknown
+7789,31,never smoked
+40112,37,never smoked
+65814,21,never smoked
+49598,80,formerly smoked
+15599,21,never smoked
+62425,5,Unknown
+52652,81,Unknown
+71957,35,smokes
+17231,24,never smoked
+30379,52,smokes
+63997,70,Unknown
+39935,34,never smoked
+8203,17,Unknown
+27446,8,Unknown
+42709,1.72,Unknown
+22691,29,never smoked
+37680,55,formerly smoked
+24552,44,smokes
+72914,19,Unknown
+29540,67,smokes
+53525,72,formerly smoked
+65411,51,Unknown
+26214,63,formerly smoked
+22190,64,Unknown
+56714,0.72,Unknown
+4211,26,smokes
+6369,59,never smoked
+56799,76,never smoked
+32235,45,smokes
+28048,13,Unknown
+68598,1.08,Unknown
+41512,57,never smoked
+64520,68,Unknown
+579,9,Unknown
+7293,40,smokes
+68398,82,never smoked
+36901,45,Unknown
+45010,57,never smoked
+22127,18,Unknown
+14180,13,Unknown
+18234,80,never smoked
+44873,81,never smoked
+19723,35,never smoked
+37544,51,formerly smoked
+44679,44,Unknown
